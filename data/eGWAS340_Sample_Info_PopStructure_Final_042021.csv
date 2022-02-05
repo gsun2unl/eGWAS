@@ -1,0 +1,341 @@
+eGWAS_Name,Accession_name,BreedingProgram,US,North Carolina,GenotypeMatch,YearOfRelease,SubpopGenomeBio,SubPopHCluster,nj,SubpopByRegionFinal,AgeSelectionFinal,Count,rep
+1,Ames27134,South Africa,NOT,NOT,MATCH,1976,unclassified,mixture,unclassified,unclassified,unclassified,1,2
+2,Ames27133,South Africa,NOT,NOT,MATCH,1976,unclassified,tropical,unclassified,unclassified,unclassified,2,2
+3,PI573098,Ohio,YES,NOT,MATCH,1993,unclassified,mixture,unclassified,unclassified,After1990,3,2
+4,PI550454,Iowa,YES,NOT,MATCH,1971,unclassified,mixture,temperate,unclassified,Before1980,4,2
+6,Ames27171,North Carolina,YES,YES,MATCH,1998,unclassified,tropical,tropical,unclassified,unclassified,5,2
+7,Ames27166,North Carolina,YES,YES,MATCH,1997,unclassified,tropical,tropical,unclassified,unclassified,6,1
+8,Ames27150,North Carolina,YES,YES,NOTMATCH,1994,unmatch,temperate,temperate,unclassified,unclassified,6,2
+9,Ames27147,North Carolina,YES,YES,MATCH,1994,unclassified,tropical,tropical,unclassified,unclassified,7,2
+10,Ames27140,North Carolina,YES,YES,MATCH,1988,temperate,mixture,temperate,temperate,unclassified,1,2
+11,Ames27132,Louisiana,YES,NOT,MATCH,2003,unclassified,mixture,tropical,unclassified,After1990,9,2
+13,Ames27066,Minnesota,YES,NOT,MATCH,1999,temperate,temperate,temperate,temperate,After1990,2,2
+14,Ames27062,North Carolina,YES,YES,MATCH,1952,unclassified,tropical,tropical,unclassified,unclassified,12,1
+15,Ames26808,Iowa,YES,NOT,NOTMATCH,2001,unmatch,temperate,temperate,unclassified,unclassified,11,3
+16,Ames19316,Manitoba,NOT,NOT,MATCH,1979,unclassified,temperate,temperate,unclassified,unclassified,12,2
+17,Ames19308,Minnesota,YES,NOT,MATCH,1965,temperate,temperate,temperate,temperate,Before1980,3,2
+18,PI587128,Indiana,YES,NOT,MATCH,1991,temperate,temperate,temperate,temperate,After1990,4,2
+19,Ames24577,Iowa,YES,NOT,MATCH,1998,popcorn,mixture,unclassified,unclassified,unclassified,15,2
+20,PI550461,Iowa,YES,NOT,MATCH,1962,temperate,temperate,temperate,temperate,Before1980,5,3
+21,Ames27194,Wisconsin,YES,NOT,MATCH,1964,unclassified,mixture,temperate,unclassified,Before1980,17,2
+22,Ames27130,Kentucky,YES,NOT,MATCH,2001,unclassified,mixture,unclassified,unclassified,After1990,18,3
+23,PI587148,Missouri,YES,NOT,MATCH,1960,unclassified,mixture,unclassified,unclassified,Before1980,19,2
+26,Ames27126,Thailand,NOT,NOT,MATCH,1992,tropical,tropical,tropical,tropical,unclassified,1,2
+28,PI587131,Indiana,YES,NOT,MATCH,1992,popcorn,mixture,unclassified,unclassified,unclassified,21,4
+32,PI531085,North Carolina,YES,YES,MATCH,1986,unclassified,mixture,unclassified,unclassified,unclassified,24,1
+34,Ames27108,South Africa,NOT,NOT,MATCH,2003,unclassified,mixture,unclassified,unclassified,unclassified,22,2
+35,Ames22763,Texas,YES,NOT,MATCH,1960,unclassified,tropical,tropical,unclassified,unclassified,23,2
+37,Ames10248,Georgia ,YES,NOT,MATCH,1972,unclassified,mixture,tropical,unclassified,Before1980,24,2
+38,PI543916,Mississippi,YES,NOT,MATCH,1990,unclassified,mixture,tropical,unclassified,After1990,25,2
+42,Ames27124,Thailand,NOT,NOT,MATCH,1982,tropical,tropical,tropical,tropical,unclassified,2,2
+45,PI257507,France,NOT,NOT,MATCH,1959,unclassified,mixture,unclassified,unclassified,unclassified,30,1
+48,Ames19288,Ohio,YES,NOT,MATCH,1949,temperate,mixture,temperate,temperate,Before1980,6,2
+50,PI550441,Missouri,YES,NOT,MATCH,1968,unclassified,tropical,tropical,unclassified,unclassified,32,1
+51,NSL65873,Iowa,YES,NOT,MATCH,1968,unclassified,mixture,unclassified,unclassified,Before1980,28,2
+52,Ames28290,North Carolina,YES,YES,MATCH,1946,unclassified,mixture,temperate,unclassified,unclassified,29,2
+53,Ames27261,North Carolina,YES,YES,NOTMATCH,1992,unmatch,tropical,tropical,unclassified,unclassified,30,2
+54,Ames27169,North Carolina,YES,YES,MATCH,1998,unclassified,tropical,tropical,unclassified,unclassified,31,2
+56,Ames22754,Kansas,YES,NOT,MATCH,1946,unclassified,mixture,unclassified,unclassified,Before1980,32,3
+57,Ames12734,North Carolina,YES,YES,MATCH,1974,unclassified,mixture,unclassified,unclassified,unclassified,38,1
+58,PI587154,Wisconsin,YES,NOT,MATCH,1993,unclassified,mixture,temperate,unclassified,After1990,33,2
+64,Ames27180,North Carolina,YES,YES,MATCH,1999,unclassified,temperate,temperate,unclassified,unclassified,34,2
+66,Ames27148,North Carolina,YES,YES,MATCH,1994,unclassified,tropical,tropical,unclassified,unclassified,35,2
+67,Ames27144,North Carolina,YES,YES,MATCH,1990,unclassified,tropical,tropical,unclassified,unclassified,36,2
+69,Ames27116,South Africa,NOT,NOT,MATCH,1999,unclassified,mixture,tropical,unclassified,unclassified,37,2
+77,Ames18999,Alabama,YES,NOT,MATCH,1992,unclassified,mixture,temperate,unclassified,After1990,38,2
+79,Ames27176,North Carolina,YES,YES,MATCH,1999,unclassified,mixture,unclassified,unclassified,unclassified,39,2
+80,Ames27158,North Carolina,YES,YES,MATCH,1996,unclassified,temperate,temperate,unclassified,unclassified,40,2
+81,Ames27153,North Carolina,YES,YES,MATCH,1994,unclassified,temperate,temperate,unclassified,unclassified,47,1
+82,Ames27113,Georgia ,YES,NOT,MATCH,2001,unclassified,mixture,tropical,unclassified,After1990,41,2
+83,PI550518,Tennessee,YES,NOT,MATCH,1930,unclassified,mixture,unclassified,unclassified,Before1980,42,2
+84,Ames26787,Indiana,YES,NOT,MATCH,1959,unclassified,mixture,unclassified,unclassified,Before1980,43,2
+86,Ames12735,North Carolina,YES,YES,MATCH,1974,unclassified,mixture,tropical,unclassified,unclassified,51,1
+87,PI550555,North Carolina,YES,YES,MATCH,1985,temperate,temperate,temperate,temperate,unclassified,7,2
+88,NSL30062,Wisconsin,YES,NOT,MATCH,1964,unclassified,mixture,temperate,unclassified,Before1980,45,2
+91,Ames27038,Manitoba,NOT,NOT,MATCH,1979,unclassified,mixture,temperate,unclassified,unclassified,46,2
+92,PI607521,Minnesota,YES,NOT,MATCH,1991,unclassified,mixture,temperate,unclassified,After1990,47,3
+93,PI606768,South Dakota,YES,NOT,MATCH,1985,unclassified,temperate,unclassified,unclassified,unclassified,56,1
+94,PI583352,Missouri,YES,NOT,MATCH,1994,temperate,mixture,temperate,temperate,After1990,8,2
+95,PI550558,Delaware,YES,NOT,MATCH,1985,unclassified,temperate,temperate,unclassified,unclassified,49,2
+96,PI550472,Iowa,YES,NOT,MATCH,1971,temperate,mixture,unclassified,temperate,Before1980,9,1
+99,NSL65865,Iowa,YES,NOT,MATCH,1968,unclassified,temperate,temperate,unclassified,Before1980,60,1
+100,NSL30904,Illinois,YES,NOT,MATCH,1960,unclassified,mixture,unclassified,unclassified,Before1980,50,2
+101,NSL30894,Illinois,YES,NOT,MATCH,1964,unclassified,mixture,temperate,unclassified,Before1980,51,2
+102,NSL30053,Wisconsin,YES,NOT,MATCH,1964,temperate,mixture,temperate,temperate,Before1980,9,2
+103,NSL30038,Missouri,YES,NOT,MATCH,1960,unclassified,mixture,unclassified,unclassified,Before1980,53,2
+104,NSL22893,Florida,YES,NOT,MATCH,1957,unclassified,mixture,tropical,unclassified,Before1980,54,2
+106,Ames27193,Virginia,YES,NOT,MATCH,1975,unclassified,mixture,temperate,unclassified,Before1980,55,2
+107,Ames27192,Virginia,YES,NOT,MATCH,1975,unclassified,mixture,unclassified,unclassified,Before1980,56,2
+108,Ames27191,South Africa,NOT,NOT,MATCH,1976,unclassified,mixture,unclassified,unclassified,unclassified,68,1
+109,Ames27190,Tennessee,YES,NOT,MATCH,2003,unclassified,mixture,unclassified,unclassified,After1990,57,2
+110,Ames27189,South Carolina,YES,NOT,MATCH,1972,unclassified,mixture,tropical,unclassified,Before1980,58,2
+111,Ames27187,Illinois,YES,NOT,MATCH,1999,unclassified,mixture,temperate,unclassified,After1990,59,2
+112,Ames27183,North Carolina,YES,YES,MATCH,1999,temperate,mixture,temperate,temperate,unclassified,10,2
+113,Ames27182,North Carolina,YES,YES,MATCH,1999,unclassified,temperate,temperate,unclassified,unclassified,61,2
+114,Ames27181,North Carolina,YES,YES,MATCH,1999,unclassified,mixture,tropical,unclassified,unclassified,62,2
+115,Ames27179,North Carolina,YES,YES,MATCH,1999,unclassified,mixture,tropical,unclassified,unclassified,75,1
+116,Ames27177,North Carolina,YES,YES,MATCH,1999,unclassified,mixture,unclassified,unclassified,unclassified,63,2
+118,Ames27174,North Carolina,YES,YES,MATCH,1999,unclassified,tropical,tropical,unclassified,unclassified,64,2
+119,Ames27173,North Carolina,YES,YES,MATCH,1998,unclassified,tropical,tropical,unclassified,unclassified,65,2
+120,Ames27172,North Carolina,YES,YES,MATCH,1998,unclassified,tropical,tropical,unclassified,unclassified,66,2
+121,Ames27170,North Carolina,YES,YES,MATCH,1998,unclassified,tropical,tropical,unclassified,unclassified,67,2
+123,Ames27167,North Carolina,YES,YES,MATCH,1997,unclassified,mixture,unclassified,unclassified,unclassified,68,2
+124,Ames27165,North Carolina,YES,YES,MATCH,1997,unclassified,tropical,tropical,unclassified,unclassified,69,2
+126,Ames27163,North Carolina,YES,YES,MATCH,1997,unclassified,mixture,tropical,unclassified,unclassified,70,2
+127,Ames27162,North Carolina,YES,YES,MATCH,1997,unclassified,mixture,tropical,unclassified,unclassified,71,2
+128,Ames27161,North Carolina,YES,YES,MATCH,1996,temperate,temperate,temperate,temperate,unclassified,11,2
+129,Ames27160,North Carolina,YES,YES,MATCH,1996,temperate,temperate,temperate,temperate,unclassified,12,2
+131,Ames27157,North Carolina,YES,YES,MATCH,1996,unclassified,mixture,tropical,unclassified,unclassified,87,1
+132,Ames27156,North Carolina,YES,YES,MATCH,1994,unclassified,mixture,tropical,unclassified,unclassified,74,2
+133,Ames27155,North Carolina,YES,YES,MATCH,1994,unclassified,mixture,tropical,unclassified,unclassified,75,2
+134,Ames27154,North Carolina,YES,YES,MATCH,1994,unclassified,temperate,temperate,unclassified,unclassified,90,1
+135,Ames27152,North Carolina,YES,YES,MATCH,1994,unclassified,temperate,temperate,unclassified,unclassified,76,2
+136,Ames27151,North Carolina,YES,YES,MATCH,1997,unclassified,temperate,temperate,unclassified,unclassified,77,3
+137,Ames27149,North Carolina,YES,YES,MATCH,1994,unclassified,temperate,temperate,unclassified,unclassified,78,2
+140,Ames27142,North Carolina,YES,YES,MATCH,1990,temperate,temperate,temperate,temperate,unclassified,13,3
+142,Ames27131,Kentucky,YES,NOT,MATCH,1966,unclassified,tropical,unclassified,unclassified,Before1980,80,2
+145,Ames27110,South Africa,NOT,NOT,MATCH,1999,unclassified,mixture,unclassified,unclassified,unclassified,81,2
+148,Ames27067,Minnesota,YES,NOT,MATCH,1999,unclassified,mixture,temperate,unclassified,After1990,82,2
+150,Ames24989,Virginia,YES,NOT,MATCH,1982,temperate,temperate,temperate,temperate,unclassified,14,2
+151,Ames24752,Michigan,YES,NOT,MATCH,1962,unclassified,mixture,temperate,unclassified,Before1980,84,2
+152,Ames23450,Minnesota,YES,NOT,MATCH,1956,unclassified,mixture,temperate,unclassified,Before1980,100,1
+155,Ames19319,Indiana,YES,NOT,MATCH,1968,temperate,mixture,temperate,temperate,Before1980,15,2
+156,Ames19313,Connecticut,YES,NOT,MATCH,1962,temperate,mixture,unclassified,temperate,Before1980,16,2
+157,Ames19016,Virginia,YES,NOT,MATCH,1972,temperate,mixture,unclassified,temperate,Before1980,17,2
+159,Ames12732,North Carolina,YES,YES,MATCH,1963,unclassified,mixture,unclassified,unclassified,unclassified,88,2
+161,Ames8399,Wisconsin,YES,NOT,MATCH,2003,unclassified,mixture,unclassified,unclassified,After1990,89,2
+162,Ames27115,Indiana,YES,NOT,MATCH,2001,unclassified,mixture,unclassified,unclassified,After1990,90,2
+163,Ames27188,Kansas,YES,NOT,MATCH,1951,popcorn,mixture,unclassified,unclassified,unclassified,91,2
+164,Ames27185,Pennsylvania,YES,NOT,MATCH,1983,temperate,mixture,unclassified,temperate,unclassified,18,2
+165,Ames27184,Pennsylvania,YES,NOT,MATCH,1970,temperate,mixture,temperate,temperate,Before1980,19,2
+166,Ames27138,North Carolina,YES,YES,MATCH,1941,temperate,temperate,temperate,temperate,unclassified,20,2
+167,Ames27137,Nebraska,YES,NOT,MATCH,1941,unclassified,mixture,unclassified,unclassified,Before1980,95,2
+169,Ames27121,Kansas,YES,NOT,MATCH,1956,unclassified,mixture,unclassified,unclassified,Before1980,96,2
+170,Ames27114,Indiana,YES,NOT,MATCH,1999,unclassified,temperate,temperate,unclassified,After1990,97,2
+171,Ames27107,Ontario,YES,NOT,MATCH,2003,unclassified,mixture,unclassified,unclassified,After1990,98,2
+172,Ames27069,Ontario,YES,NOT,MATCH,1999,unclassified,mixture,temperate,unclassified,After1990,99,2
+174,Ames19002,Virginia,YES,NOT,MATCH,1992,unclassified,mixture,unclassified,unclassified,After1990,100,2
+175,Ames26771,Indiana,YES,NOT,MATCH,1999,unclassified,mixture,unclassified,unclassified,After1990,101,2
+176,NSL22894,Florida,YES,NOT,MATCH,1963,unclassified,mixture,tropical,unclassified,Before1980,102,2
+177,PI550469,Iowa,YES,NOT,MATCH,1971,unclassified,temperate,temperate,unclassified,Before1980,103,2
+181,Ames21512,United States,YES,NOT,MATCH,1956,unclassified,mixture,unclassified,unclassified,Before1980,104,2
+182,Ames26604,Indiana,YES,NOT,MATCH,1998,unclassified,mixture,temperate,unclassified,After1990,105,2
+183,CIze7,Virginia,YES,NOT,MATCH,1941,unclassified,mixture,unclassified,unclassified,Before1980,106,2
+184,Ames19309,Minnesota,YES,NOT,MATCH,1964,temperate,temperate,temperate,temperate,Before1980,21,2
+185,Ames19314,Missouri,YES,NOT,MATCH,1956,unclassified,mixture,unclassified,unclassified,Before1980,108,2
+186,Ames19330,Wisconsin,YES,NOT,MATCH,1956,unclassified,mixture,temperate,unclassified,Before1980,109,2
+189,NSL22629,Ohio,YES,NOT,MATCH,1963,unclassified,temperate,temperate,unclassified,Before1980,110,2
+190,PI531084,North Carolina,YES,YES,MATCH,1986,unclassified,mixture,unclassified,unclassified,unclassified,111,3
+191,PI606330,Delaware,YES,NOT,MATCH,1998,temperate,mixture,unclassified,temperate,After1990,22,2
+193,PI607512,Nebraska,YES,NOT,MATCH,1974,temperate,temperate,temperate,temperate,Before1980,23,2
+194,PI583350,Missouri,YES,NOT,MATCH,1994,unclassified,mixture,temperate,unclassified,After1990,130,1
+196,PI597927,Iowa,YES,NOT,MATCH,1997,temperate,temperate,temperate,temperate,After1990,24,2
+197,Ames24575,Iowa,YES,NOT,MATCH,1998,popcorn,mixture,unclassified,unclassified,unclassified,115,2
+198,Ames24576,Iowa,YES,NOT,MATCH,1998,popcorn,mixture,unclassified,unclassified,unclassified,116,2
+199,Ames22440,United States,YES,NOT,MATCH,1956,unclassified,temperate,temperate,unclassified,Before1980,117,2
+200,Ames20140,Minnesota,YES,NOT,MATCH,1993,unclassified,mixture,temperate,unclassified,After1990,118,2
+201,Ames23405,Minnesota,YES,NOT,MATCH,1957,unclassified,mixture,temperate,unclassified,Before1980,119,2
+202,PI593009,Hawaii,YES,NOT,NOTMATCH,1996,unmatch,tropical,tropical,unclassified,unclassified,120,2
+204,PI587127,Indiana,YES,NOT,MATCH,1993,temperate,temperate,temperate,temperate,After1990,25,2
+205,PI520774,North Carolina,YES,YES,MATCH,1987,temperate,mixture,tropical,temperate,unclassified,26,2
+207,PI594047,Iowa,YES,NOT,MATCH,1996,temperate,temperate,temperate,temperate,After1990,27,2
+209,PI592734,Illinois,YES,NOT,MATCH,1996,unclassified,temperate,temperate,unclassified,After1990,124,2
+211,PI587140,Minnesota,YES,NOT,MATCH,1964,temperate,temperate,temperate,temperate,Before1980,28,2
+212,PI517974,Pennsylvania,YES,NOT,MATCH,1988,unclassified,mixture,unclassified,unclassified,unclassified,143,1
+213,PI564682,Iowa,YES,NOT,MATCH,1992,temperate,mixture,temperate,temperate,After1990,29,2
+214,PI550490,North Dakota,YES,NOT,MATCH,1980,unclassified,mixture,temperate,unclassified,Before1980,127,2
+216,PI587145,North Carolina,YES,YES,MATCH,1987,unclassified,temperate,temperate,unclassified,unclassified,146,1
+217,PI587142,Minnesota,YES,NOT,MATCH,1990,unclassified,temperate,temperate,unclassified,After1990,128,2
+218,PI587136,Kentucky,YES,NOT,MATCH,1967,unclassified,mixture,unclassified,unclassified,Before1980,129,2
+219,PI587152,Wisconsin,YES,NOT,MATCH,1954,temperate,mixture,unclassified,temperate,Before1980,30,2
+220,PI587138,Minnesota,YES,NOT,MATCH,1992,unclassified,mixture,unclassified,unclassified,After1990,131,2
+221,PI587141,Minnesota,YES,NOT,MATCH,1992,unclassified,mixture,temperate,unclassified,After1990,132,2
+224,PI587144,Missouri,YES,NOT,MATCH,1993,unclassified,mixture,unclassified,unclassified,After1990,133,2
+225,PI587149,Virginia,YES,NOT,MATCH,1992,temperate,mixture,temperate,temperate,After1990,31,2
+226,PI587139,Minnesota,YES,NOT,MATCH,1961,temperate,mixture,temperate,temperate,Before1980,33,1
+227,PI550566,Nebraska,YES,NOT,MATCH,1985,temperate,temperate,temperate,temperate,unclassified,32,2
+228,PI550483,Iowa,YES,NOT,MATCH,1973,temperate,temperate,temperate,temperate,Before1980,35,1
+229,PI550465,Iowa,YES,NOT,MATCH,1968,temperate,temperate,temperate,temperate,Before1980,33,2
+230,PI550440,Iowa,YES,NOT,MATCH,1965,unclassified,temperate,temperate,unclassified,Before1980,137,2
+231,PI587129,Indiana,YES,NOT,MATCH,1991,unclassified,mixture,temperate,unclassified,After1990,138,2
+232,PI587137,Michigan,YES,NOT,MATCH,1992,unclassified,mixture,temperate,unclassified,After1990,139,3
+233,NSL8585,Indiana,YES,NOT,MATCH,1962,unclassified,mixture,unclassified,unclassified,Before1980,140,2
+234,Ames19323,Ohio,YES,NOT,MATCH,1992,unclassified,temperate,temperate,unclassified,After1990,141,2
+235,PI587124,Manitoba,NOT,NOT,MATCH,1992,unclassified,temperate,temperate,unclassified,unclassified,142,2
+237,PI587134,Iowa,YES,NOT,NOTMATCH,1993,unmatch,mixture,unclassified,unclassified,unclassified,143,2
+239,PI608767,Iowa,YES,NOT,MATCH,1978,unclassified,temperate,temperate,unclassified,Before1980,165,1
+242,PI608774,Iowa,YES,NOT,MATCH,1992,temperate,mixture,temperate,temperate,After1990,34,2
+105-1,NSL8581,Indiana,YES,NOT,NOTMATCH,1962,sweet corn,mixture,unclassified,unclassified,unclassified,167,1
+105-2,NSL8581,Indiana,YES,NOT,MATCH,1962,sweet corn,mixture,tropical,unclassified,unclassified,168,1
+117-2,Ames27175,North Carolina,YES,YES,MATCH,1999,unclassified,tropical,unclassified,unclassified,unclassified,169,1
+12-1,Ames27068,Ontario,YES,NOT,MATCH,2000,unclassified,mixture,tropical,unclassified,After1990,170,1
+125-1,Ames27164,North Carolina,YES,YES,MATCH,1997,unclassified,tropical,tropical,unclassified,unclassified,171,1
+130-1,Ames27159,North Carolina,YES,YES,NOTMATCH,1996,unclassified,temperate,temperate,unclassified,unclassified,172,1
+130-2,Ames27159,North Carolina,YES,YES,NOTMATCH,1996,unclassified,temperate,temperate,unclassified,unclassified,173,1
+139-1,PI690392,North Carolina,YES,YES,MATCH,1990,unclassified,temperate,temperate,unclassified,unclassified,174,1
+141-1,Ames27141,North Carolina,YES,YES,MATCH,1996,unclassified,mixture,unclassified,unclassified,unclassified,175,1
+144-1,Ames27122,Kansas,YES,NOT,MATCH,1940,unclassified,mixture,unclassified,unclassified,Before1980,176,1
+146-2,Ames27106,Ontario,YES,NOT,MATCH,1999,unclassified,mixture,temperate,unclassified,After1990,177,1
+153-2,Ames20190,Manitoba,NOT,NOT,MATCH,1972,unclassified,mixture,temperate,unclassified,unclassified,178,1
+160-1,Ames12731,North Carolina,YES,YES,MATCH,1963,unclassified,mixture,unclassified,unclassified,unclassified,179,1
+178-1,PI524969,South Dakota,YES,NOT,MATCH,1988,unclassified,mixture,unclassified,unclassified,unclassified,180,1
+179-2,PI587151,Virginia,YES,NOT,MATCH,1992,unclassified,mixture,unclassified,unclassified,After1990,181,1
+180-1,PI550467,Iowa,YES,NOT,MATCH,1958,temperate,temperate,temperate,temperate,Before1980,38,1
+195-2,Ames24734,Michigan,YES,NOT,MATCH,1972,unclassified,mixture,temperate,unclassified,Before1980,183,1
+206-1,PI594048,Iowa,YES,NOT,MATCH,1996,temperate,temperate,temperate,temperate,After1990,39,1
+210-1,NSL30867,Illinois,YES,NOT,MATCH,1932,unclassified,mixture,temperate,unclassified,Before1980,185,1
+222-1,PI587133,Indiana,YES,NOT,MATCH,1993,unclassified,mixture,unclassified,unclassified,After1990,186,1
+223-1,PI587135,Iowa,YES,NOT,MATCH,1993,sweet corn,mixture,unclassified,unclassified,unclassified,187,1
+24-1,Ames27139,North Carolina,YES,YES,MATCH,1955,unclassified,mixture,unclassified,unclassified,unclassified,188,1
+25-1,Ames27064,South Africa,NOT,NOT,MATCH,1976,unclassified,mixture,tropical,unclassified,unclassified,189,1
+29-1,PI583351,Missouri,YES,NOT,MATCH,1994,temperate,mixture,temperate,temperate,After1990,40,1
+30-1,PI550522,Tennessee,YES,NOT,MATCH,1981,unclassified,temperate,unclassified,unclassified,unclassified,191,1
+33-1,NSL28966,Ohio,YES,NOT,MATCH,1960,temperate,mixture,temperate,temperate,Before1980,41,1
+40-1,Ames27260,Thailand,NOT,NOT,MATCH,1992,tropical,tropical,tropical,tropical,unclassified,3,1
+44-1,PI587150,Virginia,YES,NOT,MATCH,1993,temperate,mixture,unclassified,temperate,After1990,42,1
+44-2,PI587150,Virginia,YES,NOT,NOTMATCH,1993,temperate,mixture,unclassified,unclassified,After1990,195,1
+47-1,Ames22443,Minnesota,YES,NOT,MATCH,1946,unclassified,mixture,unclassified,unclassified,Before1980,196,1
+47-2,Ames22443,Minnesota,YES,NOT,NOTMATCH,1946,unclassified,tropical,tropical,unclassified,unclassified,197,1
+49-1,Ames27135,North Carolina,YES,YES,MATCH,1999,unclassified,mixture,unclassified,unclassified,unclassified,198,1
+49-2,Ames27135,North Carolina,YES,YES,NOTMATCH,1999,unclassified,tropical,tropical,unclassified,unclassified,199,1
+55-4,Ames27118,Illinois,YES,NOT,MATCH,2003,sweet corn,mixture,unclassified,unclassified,unclassified,200,1
+60-2,PI558532,Missouri,YES,NOT,MATCH,1964,temperate,mixture,unclassified,temperate,Before1980,43,1
+63-1,Ames28939,Missouri,YES,NOT,MATCH,2006,unclassified,mixture,temperate,unclassified,After1990,202,1
+65-1,Ames27178,North Carolina,YES,YES,NOTMATCH,1999,unclassified,mixture,temperate,unclassified,unclassified,203,1
+65-2,Ames27178,North Carolina,YES,YES,MATCH,1999,unclassified,mixture,unclassified,unclassified,unclassified,204,1
+70-2,Ames27112,South Africa,NOT,NOT,MATCH,1999,unclassified,mixture,tropical,unclassified,unclassified,205,1
+71-2,Ames27111,Galicia Spain,NOT,NOT,MATCH,1959,unclassified,mixture,unclassified,unclassified,unclassified,206,1
+72-1,Ames27105,Ontario,YES,NOT,MATCH,1958,unclassified,mixture,temperate,unclassified,Before1980,207,1
+74-2,Ames22748,Indiana,YES,NOT,MATCH,1974,temperate,temperate,temperate,temperate,Before1980,44,1
+76-1,Ames19284,Connecticut,YES,NOT,NOTMATCH,1949,temperate,mixture,temperate,unclassified,Before1980,209,1
+76-2,Ames19284,Connecticut,YES,NOT,NOTMATCH,1949,temperate,mixture,unclassified,unclassified,Before1980,210,1
+78-1,Ames12729,North Carolina,YES,YES,MATCH,1974,unclassified,mixture,unclassified,unclassified,unclassified,211,1
+85-1,Ames19328,Virginia,YES,NOT,MATCH,1975,temperate,mixture,unclassified,temperate,Before1980,45,1
+97-1,PI406112,South Africa,NOT,NOT,MATCH,1976,unclassified,temperate,temperate,unclassified,unclassified,213,1
+98-1,NSL81599,Minnesota,YES,NOT,MATCH,1972,unclassified,mixture,temperate,unclassified,Before1980,214,1
+B73,PI550473,Iowa,YES,NOT,MATCH,1972,temperate,temperate,temperate,temperate,Before1980,46,1
+N10,Ames12822,Nebraska,YES,NOT,MATCH,1990,unclassified,temperate,temperate,unclassified,After1990,145,2
+N100-1,NSL42874,Minnesota,YES,NOT,NOTMATCH,1965,unmatch,mixture,temperate,unclassified,unclassified,217,1
+N102,NSL437952,Queensland,NOT,NOT,NOTMATCH,2014,unmatch,mixture,tropical,unclassified,unclassified,146,2
+N104-1,NSL53087,South Carolina,YES,NOT,NOTMATCH,1967,unmatch,mixture,unclassified,unclassified,unclassified,219,1
+N104-2,NSL53087,South Carolina,YES,NOT,NOTMATCH,1967,unmatch,mixture,tropical,unclassified,unclassified,220,1
+N107-1,NSL53094,South Carolina,YES,NOT,NOTMATCH,1967,unmatch,mixture,unclassified,unclassified,unclassified,221,1
+N107-2,NSL53094,South Carolina,YES,NOT,NOTMATCH,1967,unmatch,mixture,unclassified,unclassified,unclassified,222,1
+N110,NSL68211,Ohio,YES,NOT,NOTMATCH,1968,unmatch,mixture,unclassified,unclassified,unclassified,223,1
+N111-1,NSL81600,Minnesota,YES,NOT,NOTMATCH,1972,unmatch,tropical,tropical,unclassified,unclassified,224,1
+N119-1,PI200181,Israel,NOT,NOT,MATCH,1952,unclassified,mixture,unclassified,unclassified,unclassified,225,1
+N123,PI221734,South Africa,NOT,NOT,MATCH,1954,unclassified,mixture,tropical,unclassified,unclassified,226,1
+N124,PI221735,South Africa,NOT,NOT,MATCH,1954,unclassified,mixture,tropical,unclassified,unclassified,147,2
+N128-1,PI221788,South Africa,NOT,NOT,MATCH,1954,unclassified,mixture,tropical,unclassified,unclassified,228,1
+N129-1,PI221790,South Africa,NOT,NOT,MATCH,1954,unclassified,tropical,tropical,unclassified,unclassified,229,1
+N132,PI257514,France,NOT,NOT,MATCH,1959,unclassified,mixture,temperate,unclassified,unclassified,148,2
+N133-1,PI303925,Spain,NOT,NOT,MATCH,1962,unclassified,mixture,temperate,unclassified,unclassified,231,1
+N136,PI303933,Spain,NOT,NOT,MATCH,1962,unclassified,mixture,tropical,unclassified,unclassified,149,2
+N14,Ames20118,Missouri,YES,NOT,MATCH,1993,unclassified,mixture,unclassified,unclassified,After1990,150,2
+N146,PI358532,Illinois,YES,NOT,MATCH,1969,sweet corn,mixture,unclassified,unclassified,unclassified,151,2
+N147,PI391665,China,NOT,NOT,MATCH,1974,unclassified,mixture,unclassified,unclassified,unclassified,152,2
+N15,Ames20137,Indiana,YES,NOT,MATCH,1993,temperate,mixture,unclassified,temperate,After1990,35,2
+N153,PI415086,Hungary,NOT,NOT,MATCH,1977,unclassified,mixture,unclassified,unclassified,unclassified,237,1
+N154,PI415091,Hungary,NOT,NOT,NOTMATCH,1977,unmatch,mixture,unclassified,unclassified,unclassified,238,1
+N158,PI506246,Nigeria,NOT,NOT,MATCH,1987,tropical,tropical,tropical,tropical,unclassified,4,1
+N16,Ames22035,Wisconsin,YES,NOT,NOTMATCH,1993,unmatch,mixture,unclassified,unclassified,unclassified,154,2
+N161-2,PI506253,Nigeria,NOT,NOT,MATCH,1987,tropical,tropical,tropical,tropical,unclassified,5,1
+N162,PI506255,Nigeria,NOT,NOT,MATCH,1987,tropical,tropical,tropical,tropical,unclassified,3,2
+N164,PI509045,Tennessee,YES,NOT,MATCH,1986,sweet corn,mixture,unclassified,unclassified,unclassified,156,2
+N166-1,PI517968,Pennsylvania,YES,NOT,MATCH,1988,temperate,temperate,temperate,temperate,unclassified,48,1
+N168,PI535927,Poland,NOT,NOT,MATCH,1989,unclassified,mixture,temperate,unclassified,unclassified,157,2
+N169,PI539859,Mississippi,YES,NOT,MATCH,1990,unclassified,tropical,tropical,unclassified,unclassified,246,1
+N17,Ames22761,Texas,YES,NOT,MATCH,1996,unclassified,tropical,unclassified,unclassified,After1990,158,2
+N171,PI540745,Nigeria,NOT,NOT,MATCH,1990,tropical,tropical,tropical,tropical,unclassified,4,2
+N172-1,PI540746,Nigeria,NOT,NOT,MATCH,1990,tropical,tropical,tropical,tropical,unclassified,8,1
+N177,PI542947,South Carolina,YES,NOT,MATCH,1990,unclassified,mixture,tropical,unclassified,After1990,160,2
+N178,PI542953,Tennessee,YES,NOT,MATCH,1990,unclassified,mixture,unclassified,unclassified,After1990,161,2
+N179,PI543840,Georgia ,YES,NOT,NOTMATCH,1990,unmatch,tropical,tropical,unclassified,unclassified,162,2
+N18,Ames22792,Minnesota,YES,NOT,MATCH,1996,unclassified,mixture,temperate,unclassified,After1990,163,2
+N180,PI543841,Tennessee,YES,NOT,MATCH,1990,temperate,mixture,unclassified,temperate,After1990,36,2
+N181,PI550531,North Dakota,YES,NOT,MATCH,1982,unclassified,mixture,temperate,unclassified,unclassified,165,2
+N182,PI550532,North Dakota,YES,NOT,MATCH,1982,unclassified,mixture,temperate,unclassified,unclassified,166,2
+N186,PI550573,North Dakota,YES,NOT,MATCH,1986,unclassified,mixture,temperate,unclassified,unclassified,167,2
+N19,Ames22793,Minnesota,YES,NOT,MATCH,1996,unclassified,mixture,temperate,unclassified,After1990,168,2
+N190-2,PI550906,Cameroon,NOT,NOT,MATCH,1991,tropical,tropical,tropical,tropical,unclassified,9,1
+N193,PI553056,Iowa,YES,NOT,MATCH,1979,unclassified,mixture,unclassified,unclassified,Before1980,169,2
+N194,PI553062,Iowa,YES,NOT,MATCH,1989,popcorn,temperate,temperate,unclassified,unclassified,170,2
+N197,PI561522,Arkansas,YES,NOT,MATCH,1992,unclassified,mixture,unclassified,unclassified,After1990,171,2
+N2,Ames2334,Beijing,NOT,NOT,MATCH,1982,unclassified,mixture,tropical,unclassified,unclassified,172,3
+N20-2,Ames23389,Minnesota,YES,NOT,MATCH,1996,unclassified,mixture,temperate,unclassified,After1990,264,1
+N206,PI595537,Mexico,NOT,NOT,MATCH,1996,tropical,tropical,tropical,tropical,unclassified,5,2
+N207-1,PI595542,Mexico,NOT,NOT,MATCH,1996,tropical,tropical,tropical,tropical,unclassified,11,1
+N209,PI595550,Mexico,NOT,NOT,MATCH,1996,tropical,tropical,tropical,tropical,unclassified,6,2
+N21,Ames23417,Minnesota,YES,NOT,MATCH,1987,unclassified,mixture,unclassified,unclassified,unclassified,175,2
+N211,PI595558,Mexico,NOT,NOT,MATCH,1996,tropical,tropical,tropical,tropical,unclassified,7,2
+N217-1,PI596503,Iowa,YES,NOT,MATCH,1982,unclassified,mixture,unclassified,unclassified,unclassified,270,1
+N22,Ames23426,Minnesota,YES,NOT,MATCH,1975,unclassified,mixture,temperate,unclassified,Before1980,271,1
+N223-2,PI601230,Iowa,YES,NOT,MATCH,1985,unclassified,mixture,unclassified,unclassified,unclassified,272,1
+N224-1,PI601324,Ohio,YES,NOT,NOTMATCH,1984,unmatch,tropical,tropical,unclassified,unclassified,273,1
+N225-2,PI601331,Ohio,YES,NOT,NOTMATCH,1984,unmatch,tropical,tropical,unclassified,unclassified,274,1
+N227,PI601561,Georgia ,YES,NOT,MATCH,1988,temperate,mixture,unclassified,temperate,unclassified,37,2
+N229-2,PI607523,Minnesota,YES,NOT,MATCH,1991,unclassified,mixture,temperate,unclassified,After1990,276,1
+N23,Ames23430,Minnesota,YES,NOT,MATCH,1996,unclassified,mixture,temperate,unclassified,After1990,178,2
+N230-1,PI608768,Iowa,YES,NOT,MATCH,1982,unclassified,mixture,temperate,unclassified,unclassified,278,1
+N231,PI608806,Mississippi,YES,NOT,MATCH,1999,unclassified,tropical,tropical,unclassified,unclassified,179,2
+N234,PI633727,Texas,YES,NOT,MATCH,2003,unclassified,mixture,tropical,unclassified,After1990,180,2
+N235,PI634206,Missouri,YES,NOT,MATCH,1999,unclassified,mixture,temperate,unclassified,After1990,181,2
+N236-1,PI635122,Nigeria,NOT,NOT,MATCH,2005,tropical,tropical,tropical,tropical,unclassified,14,1
+N239,PI639926,Nigeria,NOT,NOT,MATCH,2005,tropical,tropical,tropical,tropical,unclassified,8,2
+N24,Ames23480,Minnesota,YES,NOT,MATCH,1986,unclassified,mixture,temperate,unclassified,unclassified,183,2
+N241,PI639934,Nigeria,NOT,NOT,MATCH,2005,tropical,tropical,tropical,tropical,unclassified,9,2
+N243,PI639936,Nigeria,NOT,NOT,MATCH,2005,tropical,tropical,tropical,tropical,unclassified,10,2
+N247,PI639947,Nigeria,NOT,NOT,MATCH,2005,tropical,tropical,tropical,tropical,unclassified,11,2
+N25,Ames23495,Minnesota,YES,NOT,MATCH,1989,unclassified,mixture,unclassified,unclassified,unclassified,187,2
+N250,PI641224,Hawaii,YES,NOT,MATCH,2007,unclassified,tropical,tropical,unclassified,unclassified,188,2
+N26,Ames24589,Iowa,YES,NOT,MATCH,1998,unclassified,temperate,temperate,unclassified,After1990,189,2
+N27,Ames24706,Michigan,YES,NOT,MATCH,1958,unclassified,mixture,temperate,unclassified,Before1980,291,1
+N28,Ames24730,Michigan,YES,NOT,MATCH,1963,temperate,mixture,temperate,temperate,Before1980,38,2
+N29,Ames24745,Michigan,YES,NOT,MATCH,1961,unclassified,mixture,temperate,unclassified,Before1980,191,2
+N3,Ames2337,Shaanxi,NOT,NOT,MATCH,1982,unclassified,mixture,tropical,unclassified,unclassified,192,2
+N30,Ames26004,Minnesota,YES,NOT,MATCH,2000,popcorn,mixture,unclassified,unclassified,unclassified,193,2
+N31,Ames26022,Indiana,YES,NOT,MATCH,2000,unclassified,temperate,temperate,unclassified,After1990,296,1
+N32,Ames26116,Maryland,YES,NOT,MATCH,1945,unclassified,mixture,unclassified,unclassified,Before1980,194,2
+N33,Ames26118,Virginia,YES,NOT,MATCH,1937,unclassified,mixture,unclassified,unclassified,Before1980,195,2
+N35,Ames26253,Thailand,NOT,NOT,NOTMATCH,1997,unmatch,tropical,tropical,unclassified,unclassified,196,2
+N36,Ames26747,Indiana,YES,NOT,MATCH,2002,temperate,temperate,temperate,temperate,After1990,39,2
+N38,Ames26777,Indiana,YES,NOT,MATCH,2002,unclassified,mixture,unclassified,unclassified,After1990,198,2
+N39,Ames26806,Indiana,YES,NOT,MATCH,2002,unclassified,mixture,unclassified,unclassified,After1990,199,2
+N42,Ames27040,Ontario,YES,NOT,MATCH,2003,unclassified,mixture,temperate,unclassified,After1990,200,2
+N43,Ames27043,Ontario,YES,NOT,MATCH,2003,unclassified,mixture,temperate,unclassified,After1990,201,2
+N44,Ames27046,Ontario,YES,NOT,MATCH,2003,unclassified,mixture,temperate,unclassified,After1990,202,3
+N45,Ames27071,Mexico,NOT,NOT,MATCH,2003,tropical,tropical,tropical,tropical,unclassified,12,2
+N46,Ames27072,Mexico,NOT,NOT,MATCH,2003,tropical,tropical,tropical,tropical,unclassified,13,2
+N47,Ames27074,Mexico,NOT,NOT,MATCH,2003,tropical,tropical,tropical,tropical,unclassified,14,2
+N50,Ames27079,Mexico,NOT,NOT,MATCH,2003,tropical,tropical,tropical,tropical,unclassified,22,1
+N51,Ames27080,Mexico,NOT,NOT,MATCH,2003,tropical,tropical,tropical,tropical,unclassified,15,2
+N52,Ames27081,Mexico,NOT,NOT,MATCH,2003,tropical,tropical,tropical,tropical,unclassified,24,1
+N54,Ames27083,Mexico,NOT,NOT,MATCH,2003,tropical,tropical,tropical,tropical,unclassified,16,2
+N56,Ames27085,Mexico,NOT,NOT,MATCH,2003,tropical,tropical,tropical,tropical,unclassified,26,1
+N57,Ames27086,Mexico,NOT,NOT,MATCH,2003,tropical,tropical,tropical,tropical,unclassified,17,2
+N58,Ames27087,Mexico,NOT,NOT,MATCH,2003,tropical,tropical,tropical,tropical,unclassified,18,2
+N59,Ames27088,Mexico,NOT,NOT,MATCH,2003,tropical,tropical,tropical,tropical,unclassified,29,1
+N6,Ames10256,Georgia ,YES,NOT,MATCH,1961,unclassified,mixture,tropical,unclassified,Before1980,210,2
+N61,Ames27090,Mexico,NOT,NOT,MATCH,2003,tropical,tropical,tropical,tropical,unclassified,19,2
+N62,Ames27091,Mexico,NOT,NOT,MATCH,2003,tropical,tropical,tropical,tropical,unclassified,20,2
+N64,Ames27094,Mexico,NOT,NOT,MATCH,2003,tropical,tropical,tropical,tropical,unclassified,21,2
+N65,Ames27095,Mexico,NOT,NOT,MATCH,2003,tropical,tropical,tropical,tropical,unclassified,33,1
+N67,Ames27098,Mexico,NOT,NOT,MATCH,2003,tropical,tropical,tropical,tropical,unclassified,34,1
+N68,Ames27100,Mexico,NOT,NOT,MATCH,2003,tropical,tropical,tropical,tropical,unclassified,35,1
+N68-2,Ames27100,Mexico,NOT,NOT,NOTMATCH,2003,unmatch,tropical,tropical,unclassified,unclassified,324,1
+N71-1,Ames27196,Vojvodina Serbia,NOT,NOT,MATCH,1976,unclassified,mixture,temperate,unclassified,unclassified,325,1
+N72-1,Ames28184,Mexico,NOT,NOT,MATCH,2006,tropical,tropical,tropical,tropical,unclassified,36,1
+N75,Ames28929,Missouri,YES,NOT,MATCH,2006,unclassified,tropical,unclassified,unclassified,After1990,327,1
+N77,Ames28934,Missouri,YES,NOT,MATCH,2006,unclassified,temperate,unclassified,unclassified,After1990,328,1
+N78-1,Ames28949,Missouri,YES,NOT,NOTMATCH,2006,unmatch,tropical,tropical,unclassified,unclassified,329,1
+N79-2,Ames29045,Thailand,NOT,NOT,MATCH,1997,tropical,tropical,tropical,tropical,unclassified,37,1
+N8,Ames10273,South Carolina,YES,NOT,MATCH,1989,unclassified,mixture,tropical,unclassified,unclassified,214,2
+N81,Ames30522,landraces,YES,NOT,MATCH,2010,tropical,tropical,tropical,tropical,unclassified,38,1
+N82,Ames30857,Mexico,NOT,NOT,MATCH,2010,tropical,tropical,tropical,tropical,unclassified,22,2
+N84-1,Ames30861,Mexico,NOT,NOT,NOTMATCH,2010,unmatch,tropical,tropical,unclassified,unclassified,334,1
+N84-2,Ames30861,Mexico,NOT,NOT,MATCH,2010,tropical,tropical,tropical,tropical,unclassified,40,1
+N88,NSL22984,New Jersey,YES,NOT,MATCH,1963,unclassified,mixture,unclassified,unclassified,Before1980,216,2
+N9,Ames12820,Nebraska,YES,NOT,MATCH,1990,unclassified,mixture,temperate,unclassified,After1990,217,2
+N94,NSL30898,Illinois,YES,NOT,NOTMATCH,1964,unmatch,mixture,temperate,unclassified,unclassified,218,2
+N96,NSL32720,North Dakota,YES,NOT,NOTMATCH,1964,unmatch,mixture,unclassified,unclassified,unclassified,219,2
+N99-2,NSL42872,Minnesota,YES,NOT,NOTMATCH,1965,unmatch,mixture,temperate,unclassified,unclassified,340,1

@@ -1,0 +1,711 @@
+,desc,Category,pValue,log2FoldChange,AssignedGeneNumber,FDR
+GO:0050660,flavin adenine dinucleotide binding,Molecular function,0.11041488451733697,-0.09668142783033244,78,1.0
+GO:0022900,electron transport chain,Biological process,0.2025515415922371,0.08890610121202759,67,1.0
+GO:0004190,aspartic-type endopeptidase activity,Molecular function,0.3450172719778687,0.0743103537898933,65,1.0
+GO:0000462,"maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",Biological process,0.0014190429084318188,-0.5495195205045044,37,0.6267531149642828
+GO:0030170,pyridoxal phosphate binding,Molecular function,0.04381884199172355,0.15748577067768577,83,0.9999999999986525
+GO:0010033,response to organic substance,Biological process,0.05023624346582882,-0.23627985390250852,66,0.9999999999999682
+GO:0010154,fruit development,Biological process,0.37475037574768066,0.1114033018887845,24,1.0
+GO:0048367,shoot system development,Biological process,0.7116701179812059,0.07803406962446446,37,1.0
+GO:0000956,nuclear-transcribed mRNA catabolic process,Biological process,9.467894235132859e-05,-0.4876932881674755,61,0.06457266787947147
+GO:0007154,cell communication,Biological process,0.25450193939580046,0.07453271127822096,55,1.0
+GO:0030001,metal ion transport,Biological process,0.779281848270428,-0.0280052729707287,89,1.0
+GO:0033554,cellular response to stress,Biological process,0.6915248717928648,0.0535837727483519,44,1.0
+GO:0007155,cell adhesion,Biological process,0.6029890311523609,-0.037621249494446445,88,1.0
+GO:0009740,gibberellic acid mediated signaling pathway,Biological process,0.6073244809242575,-0.04044634222341296,56,1.0
+GO:0010090,trichome morphogenesis,Biological process,0.13459184780518302,-0.12356873409971916,93,1.0
+GO:0045010,actin nucleation,Biological process,0.38387123626152,-0.07999349291992651,77,1.0
+GO:0048765,root hair cell differentiation,Biological process,0.3662676342900739,-0.09488514348107085,83,1.0
+GO:0010118,stomatal movement,Biological process,0.7356108719650412,0.03116893447353471,57,1.0
+GO:0042128,nitrate assimilation,Biological process,0.7079343795776367,0.09667482672814134,21,1.0
+GO:0006417,regulation of translation,Biological process,0.21607207983644705,-0.13034414763281785,44,1.0
+GO:0003779,actin binding,Molecular function,0.4439103494290324,0.06355186981124283,60,1.0
+GO:0009888,tissue development,Biological process,0.139219007356581,-0.11915954836179246,90,1.0
+GO:0000085,mitotic G2 phase,Biological process,0.0363544077015761,-0.16394485309159498,74,0.9999999999043903
+GO:0006312,mitotic recombination,Biological process,0.02732128077555781,-0.2872358977269063,42,0.9999999764164793
+GO:0009585,"red, far-red light phototransduction",Biological process,0.026277380864488532,-0.23854392564678836,52,0.9999999577118724
+GO:0009933,meristem structural organization,Biological process,0.2286858931778426,-0.10307474110894375,64,1.0
+GO:0010182,sugar mediated signaling pathway,Biological process,0.2287727797277016,-0.09777722391933978,86,1.0
+GO:0016571,histone methylation,Biological process,0.00012328846587762997,-0.37032315122444337,44,0.083026893419756
+GO:0016579,protein deubiquitination,Biological process,0.009826034061006867,-0.20466714910785602,77,0.9985511770569833
+GO:0019915,lipid storage,Biological process,0.4938553622349575,-0.04128955217310344,79,1.0
+GO:0050826,response to freezing,Biological process,0.182296815569149,-0.08413890792919101,82,1.0
+GO:0051604,protein maturation,Biological process,0.08123424760431139,-0.15940336045200562,54,1.0
+GO:0000502,proteasome complex,Cellular component,0.6435165948165775,-0.08293302330697891,30,1.0
+GO:0016705,"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen",Molecular function,0.4140134774529012,0.06907654530084925,87,1.0
+GO:0051537,"2 iron, 2 sulfur cluster binding",Molecular function,0.0052819824808449795,0.28940167491406094,43,0.9725659796211383
+GO:0009073,aromatic amino acid family biosynthetic process,Biological process,0.16322388329831405,0.16910247107162535,53,1.0
+GO:0015995,chlorophyll biosynthetic process,Biological process,0.9453511592794575,0.028322672642505466,77,1.0
+GO:0009706,chloroplast inner membrane,Cellular component,0.8217388746050662,0.03012193029136896,70,1.0
+GO:0004197,cysteine-type endopeptidase activity,Molecular function,0.1791056021528724,0.13180002021173098,28,1.0
+GO:0006995,cellular response to nitrogen starvation,Biological process,0.8908918267813407,-0.04584613512300768,31,1.0
+GO:0009880,embryonic pattern specification,Biological process,0.34211718515391487,-0.14992211422710472,35,1.0
+GO:0009944,polarity specification of adaxial/abaxial axis,Biological process,0.07646343192414391,-0.18478332473294035,51,1.0
+GO:0010051,xylem and phloem pattern formation,Biological process,0.7734749061815152,-0.04125395925206533,45,1.0
+GO:0010072,primary shoot apical meristem specification,Biological process,0.21516137084866804,-0.19192312763967756,34,1.0
+GO:0010089,xylem development,Biological process,0.32523013145769064,0.037492451154762865,68,1.0
+GO:0048439,flower morphogenesis,Biological process,0.6875586877553646,-0.0497684999618591,55,1.0
+GO:0008289,lipid binding,Molecular function,0.5808170325450779,0.0014715378093087584,74,1.0
+GO:0006487,protein N-linked glycosylation,Biological process,0.00197571488974087,-0.26261643506069443,86,0.7424859670832258
+GO:0006970,response to osmotic stress,Biological process,0.7167319204928477,6.777398347886104e-05,39,1.0
+GO:0009832,plant-type cell wall biogenesis,Biological process,0.3902439297689486,0.05508394276925241,87,1.0
+GO:0006730,one-carbon metabolic process,Biological process,0.22892385906900348,-0.13705152040742907,83,1.0
+GO:0051536,iron-sulfur cluster binding,Molecular function,0.7066520109832815,0.05745168554294674,40,1.0
+GO:0000159,protein phosphatase type 2A complex,Cellular component,0.24733722014186277,-0.1944565824675984,29,1.0
+GO:0000303,response to superoxide,Biological process,0.3071656748021836,-0.16725226605276525,36,1.0
+GO:0008219,cell death,Biological process,0.148875760400945,-0.17836141854133808,51,1.0
+GO:0009873,ethylene-activated signaling pathway,Biological process,0.864612289820449,-0.02195555548423395,93,1.0
+GO:0050790,regulation of catalytic activity,Biological process,0.9039335915092828,-0.02442202425472155,89,1.0
+GO:0019888,protein phosphatase regulator activity,Molecular function,0.1663003578224933,-0.23023242772090544,26,1.0
+GO:0009725,response to hormone,Biological process,0.8154195930301376,0.026827762010068354,61,1.0
+GO:0009788,negative regulation of abscisic acid-activated signaling pathway,Biological process,0.02556215826980778,-0.2936489004739263,39,0.9999999365180349
+GO:0007062,sister chromatid cohesion,Biological process,0.038453768509720765,-0.15742578149303077,91,0.9999999999701074
+GO:0008284,positive regulation of cell population proliferation,Biological process,0.06325590418110821,-0.19684669215581033,92,1.0
+GO:0031048,heterochromatin assembly by small RNA,Biological process,9.95154100002856e-05,-0.36841355880327775,75,0.06766429890129388
+GO:0033044,regulation of chromosome organization,Biological process,0.005401419127274173,-0.35704596442083997,42,0.9742997933291729
+GO:0045132,meiotic chromosome segregation,Biological process,0.7166683607843685,-0.0153508526889771,40,1.0
+GO:0045489,pectin biosynthetic process,Biological process,0.32166418873785163,0.18437511976164847,32,1.0
+GO:0047262,polygalacturonate 4-alpha-galacturonosyltransferase activity,Molecular function,0.9746217727661133,-0.02486945157081831,22,1.0
+GO:0007568,aging,Biological process,0.8810869002194571,-0.016270596899130785,32,1.0
+GO:0009308,amine metabolic process,Biological process,0.3820517983575561,0.09583270815430488,78,1.0
+GO:0009830,cell wall modification involved in abscission,Biological process,0.20244979858398438,-0.16450495714974556,20,1.0
+GO:0051087,chaperone binding,Molecular function,0.7997613193323498,-0.0784698366827956,49,1.0
+GO:0090502,"RNA phosphodiester bond hydrolysis, endonucleolytic",Biological process,0.8955945225688345,-0.03378342540512062,51,1.0
+GO:0005102,signaling receptor binding,Molecular function,0.7682963609695435,0.006620119375959143,24,1.0
+GO:0008047,enzyme activator activity,Molecular function,0.007574619027472914,0.2591547069428319,29,0.9939610181092066
+GO:0005764,lysosome,Cellular component,0.008880332061844298,0.19560645429355666,46,0.9973462940540656
+GO:0006310,DNA recombination,Biological process,0.0004746053136576154,-0.3768032764141864,69,0.28272974311388455
+GO:0006865,amino acid transport,Biological process,0.04244463079540384,-0.19908127314682564,61,0.999999999997159
+GO:0006915,apoptotic process,Biological process,0.20555823332593648,0.09245621044989015,58,1.0
+GO:0015672,monovalent inorganic cation transport,Biological process,0.16952300071716309,0.22748961779431032,23,1.0
+GO:0048481,plant ovule development,Biological process,0.04742502998009902,-0.13975205748868272,99,0.9999999999998445
+GO:0007129,homologous chromosome pairing at meiosis,Biological process,0.05641157794050247,-0.23202250089560492,43,0.9999999999999991
+GO:0007131,reciprocal meiotic recombination,Biological process,0.19558417985045207,-0.08658014420760772,91,1.0
+GO:0010332,response to gamma radiation,Biological process,0.03196017603928264,-0.2125883270502458,55,0.9999999986608232
+GO:0032204,regulation of telomere maintenance,Biological process,0.021410937414803422,-0.2685634951905692,37,0.9999991712352344
+GO:0042138,meiotic DNA double-strand break formation,Biological process,0.11658937084041285,-0.16921395202002745,48,1.0
+GO:0043247,telomere maintenance in response to DNA damage,Biological process,0.03262743086478149,-0.2494983545772837,36,0.9999999991028057
+GO:0000151,ubiquitin ligase complex,Cellular component,0.9221183793279459,-0.03016282497247907,68,1.0
+GO:0010150,leaf senescence,Biological process,0.07046904972904966,-0.1755296498712579,96,1.0
+GO:0030173,integral component of Golgi membrane,Cellular component,0.30365917904060846,0.11192230172707923,26,1.0
+GO:0009306,protein secretion,Biological process,0.5645889043807983,-0.17534959304646133,24,1.0
+GO:0009826,unidimensional cell growth,Biological process,0.1599123309546424,-0.11814267354494515,89,1.0
+GO:0071949,FAD binding,Molecular function,0.3294053077697754,-0.13509128615357574,23,1.0
+GO:0000023,maltose metabolic process,Biological process,0.13026507355840425,0.1081878722862114,97,1.0
+GO:0005985,sucrose metabolic process,Biological process,0.9186935424804688,0.030949735008333586,21,1.0
+GO:0010264,myo-inositol hexakisphosphate biosynthetic process,Biological process,0.28073511825954933,0.09852309923171056,37,1.0
+GO:0043085,positive regulation of catalytic activity,Biological process,0.11102392653378723,0.09210443989950365,88,1.0
+GO:0052543,callose deposition in cell wall,Biological process,0.7592878341674805,0.06365324367006936,21,1.0
+GO:0010494,cytoplasmic stress granule,Cellular component,0.023494996380650883,-0.2753363017411381,34,0.9999997650304209
+GO:0090406,pollen tube,Cellular component,0.6628649274388577,0.04310834479061576,34,1.0
+GO:0004712,protein serine/threonine/tyrosine kinase activity,Molecular function,0.7409807632710126,0.00859652094758617,33,1.0
+GO:0016597,amino acid binding,Molecular function,0.42327221109755275,-0.11699004114271966,49,1.0
+GO:0009707,chloroplast outer membrane,Cellular component,0.5588789247091801,-0.06447416462326155,46,1.0
+GO:0009686,gibberellin biosynthetic process,Biological process,0.09644985057638178,0.24064139838509135,28,1.0
+GO:0004725,protein tyrosine phosphatase activity,Molecular function,0.5035299195137813,-0.07634536576243847,42,1.0
+GO:0035335,peptidyl-tyrosine dephosphorylation,Biological process,0.469872544128363,-0.04852031845280604,36,1.0
+GO:0004527,exonuclease activity,Molecular function,0.8290790993681643,0.026660533507805624,26,1.0
+GO:0051707,response to other organism,Biological process,0.9391976036752581,-0.004679786038054274,82,1.0
+GO:0016788,"hydrolase activity, acting on ester bonds",Molecular function,0.6078517823197921,-0.046438426741476996,79,1.0
+GO:0009805,coumarin biosynthetic process,Biological process,0.06034070566777462,0.18924436295793928,61,0.9999999999999999
+GO:0009809,lignin biosynthetic process,Biological process,0.005107673893830775,0.24610672421994031,49,0.9692577884752351
+GO:0009813,flavonoid biosynthetic process,Biological process,0.6384532010547104,-0.09025262386750989,26,1.0
+GO:0009410,response to xenobiotic stimulus,Biological process,0.34239058745528317,-0.09514595579461331,57,1.0
+GO:0010411,xyloglucan metabolic process,Biological process,0.45640776919705595,0.0789602804446871,27,1.0
+GO:0016413,O-acetyltransferase activity,Molecular function,0.410311900132763,0.08365806581184908,39,1.0
+GO:0030145,manganese ion binding,Molecular function,0.185177810716183,0.19946305841833126,34,1.0
+GO:0003333,amino acid transmembrane transport,Biological process,0.12923054060628256,0.12233965470568327,59,1.0
+GO:0006569,tryptophan catabolic process,Biological process,0.9290525036286222,-0.029810230968238687,58,1.0
+GO:0009684,indoleacetic acid biosynthetic process,Biological process,0.49694610680247386,-0.06565257059328612,79,1.0
+GO:0016558,protein import into peroxisome matrix,Biological process,0.6354802040509521,-0.02582304350565612,87,1.0
+GO:0030003,cellular cation homeostasis,Biological process,0.8699694737499696,-0.006729504658306998,75,1.0
+GO:0015171,amino acid transmembrane transporter activity,Molecular function,0.3514605324271852,0.08910805196447019,34,1.0
+GO:0009705,plant-type vacuole membrane,Cellular component,0.7727196720119712,-0.017508079706158974,100,1.0
+GO:0007033,vacuole organization,Biological process,0.5185956509912091,-0.06155719574377437,47,1.0
+GO:0009556,microsporogenesis,Biological process,0.7778725842864105,-0.1324204183425619,34,1.0
+GO:0045324,late endosome to vacuole transport,Biological process,0.7593459684488444,0.04865526872101487,42,1.0
+GO:0005484,SNAP receptor activity,Molecular function,0.02698939396408554,0.23693878603933838,47,0.9999999715121536
+GO:0012505,endomembrane system,Cellular component,0.9565514590140767,-0.004009070971189179,83,1.0
+GO:0004402,histone acetyltransferase activity,Molecular function,0.0030918080776230596,-0.4172237609065462,39,0.8793638338646178
+GO:0016573,histone acetylation,Biological process,0.04857964308643552,-0.2524097698452088,44,0.9999999999999135
+GO:0006873,cellular ion homeostasis,Biological process,0.28966712951660156,0.1753558979448985,24,1.0
+GO:0005852,eukaryotic translation initiation factor 3 complex,Cellular component,0.3705310821533203,-0.14033971263579892,22,1.0
+GO:0016282,eukaryotic 43S preinitiation complex,Cellular component,0.30013346672058105,-0.17516282966453287,23,1.0
+GO:0033290,eukaryotic 48S preinitiation complex,Cellular component,0.24106645584106445,-0.1854624450717231,25,1.0
+GO:0016702,"oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen",Molecular function,0.1641178947965134,-0.06884878354728807,31,1.0
+GO:0009691,cytokinin biosynthetic process,Biological process,0.8736042976379395,-0.05470986863240135,22,1.0
+GO:0009741,response to brassinosteroid,Biological process,0.10263595139851774,-0.1348372141976385,85,1.0
+GO:0009910,negative regulation of flower development,Biological process,0.06093732766639812,-0.3513940893744704,27,0.9999999999999999
+GO:0048366,leaf development,Biological process,0.7078101468678335,0.0363140484796056,67,1.0
+GO:0048527,lateral root development,Biological process,0.511396643659729,0.049537775794668865,86,1.0
+GO:0005769,early endosome,Cellular component,0.3321156693998423,-0.09037051700532771,49,1.0
+GO:0015693,magnesium ion transport,Biological process,0.7672083132559107,0.08512077411117584,28,1.0
+GO:1903830,magnesium ion transmembrane transport,Biological process,0.4523754119873047,0.13424088309644192,20,1.0
+GO:0015095,magnesium ion transmembrane transporter activity,Molecular function,0.8739878535270691,0.037431364264059276,25,1.0
+GO:0000226,microtubule cytoskeleton organization,Biological process,0.004427844816202458,-0.2561858772593782,85,0.9515147449416923
+GO:0005813,centrosome,Cellular component,0.004890136763147199,-0.36632645057794216,33,0.9645046048255133
+GO:0005819,spindle,Cellular component,0.013650549152160664,-0.2950848563271917,45,0.9998818942383919
+GO:0009524,phragmoplast,Cellular component,0.40745612420335053,-0.08765778348043517,63,1.0
+GO:0048471,perinuclear region of cytoplasm,Cellular component,0.19133743144217152,-0.1607644975469503,42,1.0
+GO:0042545,cell wall modification,Biological process,0.12973258865161438,-0.10949750062547399,72,1.0
+GO:0046854,phosphatidylinositol phosphorylation,Biological process,0.6190876129435576,0.02641185651071753,50,1.0
+GO:0048653,anther development,Biological process,0.38355269867415864,-0.03733164240968264,55,1.0
+GO:0031225,anchored component of membrane,Cellular component,0.01869359769155253,-0.32912528460849894,31,0.9999952003853722
+GO:0009657,plastid organization,Biological process,0.27681541442871094,0.15156228484656045,24,1.0
+GO:0006325,chromatin organization,Biological process,0.09116053796699707,-0.17142395309950764,88,1.0
+GO:0007346,regulation of mitotic cell cycle,Biological process,0.022269106044119993,-0.2866503990629377,47,0.9999994973638553
+GO:0010267,production of ta-siRNAs involved in RNA interference,Biological process,0.0008786491445798852,-0.3050016084076581,75,0.45763096159346184
+GO:0016607,nuclear speck,Cellular component,0.7990552756663978,-0.04189236337110171,70,1.0
+GO:0004553,"hydrolase activity, hydrolyzing O-glycosyl compounds",Molecular function,0.8486815732798977,0.013813631117951062,92,1.0
+GO:0030247,polysaccharide binding,Molecular function,0.005357723206236514,-0.179056280234805,71,0.9736669418828043
+GO:0009617,response to bacterium,Biological process,0.22898954801132143,-0.11149260115925305,81,1.0
+GO:0005680,anaphase-promoting complex,Cellular component,0.7079343795776367,-0.09124946841665361,21,1.0
+GO:0006811,ion transport,Biological process,0.5660676956176758,-0.027278723474833583,22,1.0
+GO:0009690,cytokinin metabolic process,Biological process,0.9643125534057617,-0.03425795082156807,23,1.0
+GO:0008568,microtubule-severing ATPase activity,Molecular function,0.6327285766601562,-0.12748184404321397,22,1.0
+GO:0008540,"proteasome regulatory particle, base subcomplex",Cellular component,0.10539817810058594,-0.3258353277516409,20,1.0
+GO:0010311,lateral root formation,Biological process,0.8890155645931768,-0.007375410955594057,39,1.0
+GO:0042023,DNA endoreduplication,Biological process,0.3355471834682021,-0.12922124226419923,64,1.0
+GO:0045596,negative regulation of cell differentiation,Biological process,0.9328740972799175,-0.03405194434157663,41,1.0
+GO:0051510,regulation of unidimensional cell growth,Biological process,0.5398874509526412,-0.10204737166360058,50,1.0
+GO:0009620,response to fungus,Biological process,0.04217599212044525,0.13499385687095564,82,0.9999999999967683
+GO:0010193,response to ozone,Biological process,0.23038810466961934,0.0939493324370149,37,1.0
+GO:0031408,oxylipin biosynthetic process,Biological process,0.5967314227115934,0.06708259235571483,31,1.0
+GO:0048443,stamen development,Biological process,0.05129684468648303,0.1869687159536893,40,0.9999999999999829
+GO:0010181,FMN binding,Molecular function,0.897854494969354,-0.0026434848535046647,44,1.0
+GO:0016791,phosphatase activity,Molecular function,0.5736686426123372,0.08306128447669932,46,1.0
+GO:0006631,fatty acid metabolic process,Biological process,0.5981234802624326,0.027281888653218567,33,1.0
+GO:0006655,phosphatidylglycerol biosynthetic process,Biological process,0.18122946024254183,-0.11313308864923481,50,1.0
+GO:0000271,polysaccharide biosynthetic process,Biological process,0.09244487922139907,-0.1412487616469494,76,1.0
+GO:0009825,multidimensional cell growth,Biological process,0.9201695063303047,-0.009652188036471094,95,1.0
+GO:0009932,cell tip growth,Biological process,0.6145353549289765,-0.030106952329888303,80,1.0
+GO:0043481,anthocyanin accumulation in tissues in response to UV light,Biological process,0.3890744228969115,-0.06552679098426627,88,1.0
+GO:0003899,DNA-directed 5'-3' RNA polymerase activity,Molecular function,0.6345544634709095,-0.05163353951262175,69,1.0
+GO:0051015,actin filament binding,Molecular function,0.1648154704539846,-0.22471985735719083,28,1.0
+GO:0022625,cytosolic large ribosomal subunit,Cellular component,0.30939100732488667,0.10443687691075275,64,1.0
+GO:0000062,fatty-acyl-CoA binding,Molecular function,0.0062808990478515625,-0.511326048814127,21,0.9856882791288918
+GO:0030126,COPI vesicle coat,Cellular component,0.02157115936279297,-0.42385953966792933,21,0.999999238109225
+GO:0008652,cellular amino acid biosynthetic process,Biological process,0.12660671724117847,0.12804525274610115,69,1.0
+GO:0009641,shade avoidance,Biological process,0.8774070739746094,-0.039327806234830516,24,1.0
+GO:0009958,positive gravitropism,Biological process,0.8341945612473364,-0.052395371952091555,39,1.0
+GO:0010087,phloem or xylem histogenesis,Biological process,0.14696407318115234,0.26091434261788915,21,1.0
+GO:0080022,primary root development,Biological process,0.376449272036509,0.14033309918889175,33,1.0
+GO:0009631,cold acclimation,Biological process,0.6143145637885868,-0.06108374752677822,30,1.0
+GO:0015979,photosynthesis,Biological process,0.41847179740457985,0.06630503259462443,58,1.0
+GO:0031969,chloroplast membrane,Cellular component,0.7391146782948869,0.019142715183677127,62,1.0
+GO:0006636,unsaturated fatty acid biosynthetic process,Biological process,0.05757525678933383,-0.11203001336062232,53,0.9999999999999996
+GO:0006661,phosphatidylinositol biosynthetic process,Biological process,0.5498755461166513,0.03704137577204655,65,1.0
+GO:0016117,carotenoid biosynthetic process,Biological process,0.23995856612221567,-0.06207608811744113,80,1.0
+GO:0019375,galactolipid biosynthetic process,Biological process,0.9870905769619254,0.004466019308957108,82,1.0
+GO:0006869,lipid transport,Biological process,0.0739442792775721,-0.1441373225914807,96,1.0
+GO:0009926,auxin polar transport,Biological process,0.6663166462973729,-0.02374236951043579,96,1.0
+GO:0010359,regulation of anion channel activity,Biological process,0.8340898728574992,0.01198668828905138,52,1.0
+GO:0010498,proteasomal protein catabolic process,Biological process,0.0675630907933008,-0.16179829712519475,63,1.0
+GO:0010286,heat acclimation,Biological process,0.8162704521877754,-0.05078721141996683,75,1.0
+GO:0005096,GTPase activator activity,Molecular function,0.005453149695695222,-0.244619305425184,71,0.975051681763013
+GO:0009827,plant-type cell wall modification,Biological process,0.4946578320325006,0.027333670462840905,77,1.0
+GO:0032012,regulation of ARF protein signal transduction,Biological process,0.5698314105864528,-0.05103157133362047,31,1.0
+GO:0043547,positive regulation of GTPase activity,Biological process,0.4784479739045726,-0.09334109746859484,68,1.0
+GO:0009567,double fertilization forming a zygote and endosperm,Biological process,0.47794743855272326,-0.09371387620137586,30,1.0
+GO:0004693,cyclin-dependent protein serine/threonine kinase activity,Molecular function,0.3281623065662794,0.06846638404878996,26,1.0
+GO:0005747,mitochondrial respiratory chain complex I,Cellular component,0.4875665564813717,0.03770396337644315,45,1.0
+GO:0006887,exocytosis,Biological process,0.11694565074156078,-0.18357202669841594,31,1.0
+GO:0006906,vesicle fusion,Biological process,0.2751842737197876,0.20839827440799197,25,1.0
+GO:0048451,petal formation,Biological process,0.04093461122886222,-0.21947715817913724,37,0.9999999999934158
+GO:0048453,sepal formation,Biological process,0.017080799258781844,-0.26941764011418456,34,0.9999865382952418
+GO:0000149,SNARE binding,Molecular function,0.287036927721668,0.13612929484770878,35,1.0
+GO:0009504,cell plate,Cellular component,0.6056205089595192,-0.08815945148022003,39,1.0
+GO:0031201,SNARE complex,Cellular component,0.1919052034080042,0.2061992484482798,37,1.0
+GO:0022627,cytosolic small ribosomal subunit,Cellular component,0.9595183868498773,0.07423822640290129,38,1.0
+GO:0009739,response to gibberellin,Biological process,0.3921136873393194,0.07666712924378227,67,1.0
+GO:0009911,positive regulation of flower development,Biological process,0.9104415563099536,0.027192152370806976,51,1.0
+GO:0010048,vernalization response,Biological process,0.11347967802538327,-0.12337116392327056,60,1.0
+GO:0000977,RNA polymerase II transcription regulatory region sequence-specific DNA binding,Molecular function,0.8738797255861118,-0.058203966753941294,47,1.0
+GO:0009688,abscisic acid biosynthetic process,Biological process,0.2467491626739502,-0.21079351442673627,23,1.0
+GO:0006972,hyperosmotic response,Biological process,0.8672567626595497,-0.007031705151989771,81,1.0
+GO:0006974,cellular response to DNA damage stimulus,Biological process,0.013657908275863846,-0.22523779036148628,60,0.9998818942383919
+GO:0010029,regulation of seed germination,Biological process,0.07719130716167859,-0.25340515212228876,47,1.0
+GO:0000981,"DNA-binding transcription factor activity, RNA polymerase II-specific",Molecular function,0.01750005748637927,-0.3199064171248125,45,0.9999896212066738
+GO:0007267,cell-cell signaling,Biological process,0.0002677142317288669,-0.378882966089371,64,0.17113070453608403
+GO:0032940,secretion by cell,Biological process,0.6891349940127396,0.03602450818170138,29,1.0
+GO:0006397,mRNA processing,Biological process,0.17303845639119197,-0.08379952140878184,98,1.0
+GO:0010015,root morphogenesis,Biological process,0.42221868501052773,-0.08065791206325686,35,1.0
+GO:0051171,regulation of nitrogen compound metabolic process,Biological process,0.9754532564136702,-0.028848943481913147,48,1.0
+GO:0003746,translation elongation factor activity,Molecular function,0.13351302188499425,-0.12465286007496817,77,1.0
+GO:0009699,phenylpropanoid biosynthetic process,Biological process,0.8673833586008021,0.014896958825332648,90,1.0
+GO:0009718,anthocyanin-containing compound biosynthetic process,Biological process,0.008305865832545832,0.34514681262123303,36,0.9962267897325358
+GO:0015824,proline transport,Biological process,0.25025151938976886,-0.12038466570024177,58,1.0
+GO:0006284,base-excision repair,Biological process,0.2588240374104106,-0.10986310634921713,27,1.0
+GO:0008380,RNA splicing,Biological process,0.17736006329332732,0.09254421376252393,70,1.0
+GO:0009816,"defense response to bacterium, incompatible interaction",Biological process,0.2563562428167734,-0.12928917241480306,43,1.0
+GO:0012501,programmed cell death,Biological process,0.12708824029768626,0.2375195926090803,28,1.0
+GO:0043621,protein self-association,Molecular function,0.13367654833744314,-0.1918560235463087,55,1.0
+GO:0006506,GPI anchor biosynthetic process,Biological process,0.6634435653686523,-0.1019325353512079,24,1.0
+GO:0030433,ubiquitin-dependent ERAD pathway,Biological process,0.9234411544686316,-0.006677551258369762,27,1.0
+GO:0044262,cellular carbohydrate metabolic process,Biological process,0.5269610710548687,0.021789935780429884,100,1.0
+GO:0005215,transporter activity,Molecular function,0.38088306439477526,0.047142053548771407,86,1.0
+GO:0009902,chloroplast relocation,Biological process,0.24390620938024388,-0.08337508235823464,77,1.0
+GO:0010207,photosystem II assembly,Biological process,0.3090164207990084,0.077231437364258,93,1.0
+GO:0035304,regulation of protein dephosphorylation,Biological process,0.7599719106387297,0.036954104231457875,68,1.0
+GO:0042793,plastid transcription,Biological process,0.48256193210770193,-0.05757172330606626,64,1.0
+GO:0005615,extracellular space,Cellular component,0.9853110454089958,-0.00378889745782592,89,1.0
+GO:0019825,oxygen binding,Molecular function,0.3299827575683594,0.16952984955495073,20,1.0
+GO:0031410,cytoplasmic vesicle,Cellular component,0.1507409141114342,0.156537407013556,43,1.0
+GO:0010268,brassinosteroid homeostasis,Biological process,0.49800872802734375,0.17916985939764485,20,1.0
+GO:0000209,protein polyubiquitination,Biological process,0.4572290845574636,-0.1271064337852694,61,1.0
+GO:0000413,protein peptidyl-prolyl isomerization,Biological process,0.0808543667009045,0.12385340304146565,49,1.0
+GO:0061077,chaperone-mediated protein folding,Biological process,0.04844093322753906,-0.377126094903955,23,0.9999999999999101
+GO:0003755,peptidyl-prolyl cis-trans isomerase activity,Molecular function,0.2704890954256953,0.0642985565265911,52,1.0
+GO:0005351,carbohydrate:proton symporter activity,Molecular function,0.6381284957204214,-0.03237008681624815,31,1.0
+GO:0006796,phosphate-containing compound metabolic process,Biological process,0.6900581587571608,-0.008749964649170158,46,1.0
+GO:0010501,RNA secondary structure unwinding,Biological process,0.015034507470400228,-0.25955756653820183,52,0.9999516734003215
+GO:0005834,heterotrimeric G-protein complex,Cellular component,0.07547956705093384,-0.35110219514067703,25,1.0
+GO:0071013,catalytic step 2 spliceosome,Cellular component,0.4280473482759819,-0.09966684771136952,59,1.0
+GO:0080008,Cul4-RING E3 ubiquitin ligase complex,Cellular component,0.00014874744475315845,-0.359110092539173,71,0.09916077069919016
+GO:0009646,response to absence of light,Biological process,0.10321426391601562,-0.262340075379482,21,1.0
+GO:0008237,metallopeptidase activity,Molecular function,0.7111607789993286,-0.07940108686977872,25,1.0
+GO:0010043,response to zinc ion,Biological process,0.5187037985244896,-0.04378417143189394,72,1.0
+GO:0005743,mitochondrial inner membrane,Cellular component,0.7323144699289486,-0.03583813170310411,99,1.0
+GO:0006862,nucleotide transport,Biological process,0.1465877520433444,0.12438840101605655,58,1.0
+GO:0035435,phosphate ion transmembrane transport,Biological process,0.47186590394269967,-0.049569111739767184,52,1.0
+GO:0015215,nucleotide transmembrane transporter activity,Molecular function,0.6583305240881341,-0.06536778848167492,30,1.0
+GO:0016779,nucleotidyltransferase activity,Molecular function,0.6120509763180282,-0.0773982579645319,43,1.0
+GO:0031463,Cul3-RING ubiquitin ligase complex,Cellular component,0.20015525817871094,-0.1645539803366848,23,1.0
+GO:0048544,recognition of pollen,Biological process,0.6951092703010273,-0.033226087098717626,31,1.0
+GO:0031307,integral component of mitochondrial outer membrane,Cellular component,0.9272785186767578,0.02673512193685155,20,1.0
+GO:0006066,alcohol metabolic process,Biological process,0.4361212939787671,-0.04408587637804344,87,1.0
+GO:0019243,methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione,Biological process,0.0384682817763695,0.13259629915459423,73,0.9999999999701074
+GO:0005770,late endosome,Cellular component,0.537722120370485,-0.08347293254131895,29,1.0
+GO:0010229,inflorescence development,Biological process,0.5495956979066463,-0.11739186541941683,32,1.0
+GO:0010540,basipetal auxin transport,Biological process,0.8115357160568237,-0.052839874343590706,24,1.0
+GO:0048825,cotyledon development,Biological process,0.061765927070308826,-0.2070282440153789,56,1.0
+GO:0009165,nucleotide biosynthetic process,Biological process,0.9019250699678955,-0.005492885468465759,63,1.0
+GO:0009749,response to glucose,Biological process,0.8414008511393343,-0.016842484246041452,81,1.0
+GO:0010224,response to UV-B,Biological process,0.11525460735531873,0.10694506336514689,96,1.0
+GO:0009561,megagametogenesis,Biological process,0.16348377229005917,-0.1882352433187367,27,1.0
+GO:0032508,DNA duplex unwinding,Biological process,0.0018184757479714785,-0.477543645711622,40,0.7141391866869642
+GO:0003678,DNA helicase activity,Molecular function,0.01531219482421875,-0.3723613728984779,20,0.9999592097430977
+GO:0003725,double-stranded RNA binding,Molecular function,0.7997725009918213,-0.028191027067716482,23,1.0
+GO:0042732,D-xylose metabolic process,Biological process,0.7674526741308423,-0.04828465082238934,40,1.0
+GO:0005815,microtubule organizing center,Cellular component,0.10617635011964179,-0.2898949936376833,34,1.0
+GO:0051260,protein homooligomerization,Biological process,0.2615199089050293,0.14346070535074915,22,1.0
+GO:0000741,karyogamy,Biological process,0.0027652741969916386,-0.37556165741172237,30,0.8495414378796943
+GO:0006346,DNA methylation-dependent heterochromatin assembly,Biological process,3.1280321093221845e-06,-0.4590586817395162,82,0.0022153207810435838
+GO:0009616,virus induced gene silencing,Biological process,0.0053139286953322535,-0.24031299115247629,84,0.973014357953658
+GO:0009855,determination of bilateral symmetry,Biological process,0.00908152937477615,-0.1892245753610378,84,0.9976601860128115
+GO:0010014,meristem initiation,Biological process,0.009660329444582177,-0.2006883244614583,89,0.9983970912701048
+GO:0010050,vegetative phase change,Biological process,0.03662365402169766,-0.2573194275975463,50,0.9999999999166129
+GO:0016246,RNA interference,Biological process,0.0008354201527308503,-0.6740597715400444,29,0.44151706137323066
+GO:0004806,triglyceride lipase activity,Molecular function,0.9608097754501559,0.01751615349566753,35,1.0
+GO:0016042,lipid catabolic process,Biological process,0.8327138319004034,-0.028040159924932587,75,1.0
+GO:0010106,cellular response to iron ion starvation,Biological process,0.14106842992689927,-0.1812014562171978,70,1.0
+GO:0055072,iron ion homeostasis,Biological process,0.007924978037083185,0.2647923462494529,32,0.9951985792961864
+GO:0009266,response to temperature stimulus,Biological process,0.47235096448988423,0.07227429252832528,66,1.0
+GO:0042256,mature ribosome assembly,Biological process,0.7261838912963867,-0.07683403357479454,22,1.0
+GO:0006606,protein import into nucleus,Biological process,1.935748774465661e-06,-0.4100508982669288,88,0.0013734389283982518
+GO:0032040,small-subunit processome,Cellular component,3.5889989767848445e-05,-0.6300607173620201,42,0.02502045479693138
+GO:0010114,response to red light,Biological process,0.860333606699557,-0.009381923006545528,55,1.0
+GO:0010119,regulation of stomatal movement,Biological process,0.3043629224850424,-0.06011622024406278,62,1.0
+GO:0009612,response to mechanical stimulus,Biological process,0.4915006390036113,-0.12713058853117457,35,1.0
+GO:0009846,pollen germination,Biological process,0.02338631061090628,-0.22730035038823349,64,0.9999997535293128
+GO:0019722,calcium-mediated signaling,Biological process,0.6183667526000327,-0.06575536145310631,59,1.0
+GO:0004843,thiol-dependent ubiquitin-specific protease activity,Molecular function,0.09678481535416647,-0.18980935487040726,39,1.0
+GO:0000724,double-strand break repair via homologous recombination,Biological process,0.022145452189204405,-0.2475707799310839,58,0.9999994667907829
+GO:0006261,DNA-dependent DNA replication,Biological process,0.05940643779935562,-0.22285179055273482,55,0.9999999999999999
+GO:0006334,nucleosome assembly,Biological process,0.36296708746596873,-0.1359183777575402,58,1.0
+GO:0008361,regulation of cell size,Biological process,0.9617874840472179,0.002942460546908042,66,1.0
+GO:0009294,DNA mediated transformation,Biological process,0.2888808876029956,-0.1668757534430687,39,1.0
+GO:0010091,trichome branching,Biological process,0.008375372965971843,0.39846610361728424,32,0.9963692274946563
+GO:0005694,chromosome,Cellular component,0.02568873999366418,-0.20696599907432578,51,0.9999999400424128
+GO:0006826,iron ion transport,Biological process,0.44386629117824805,-0.08985034845949527,75,1.0
+GO:0031072,heat shock protein binding,Molecular function,0.8636320250054732,0.016370583821154503,96,1.0
+GO:0000155,phosphorelay sensor kinase activity,Molecular function,0.4741646647453308,0.006774580101567736,25,1.0
+GO:0000156,phosphorelay response regulator activity,Molecular function,0.45236778259277344,-0.13351507045465172,21,1.0
+GO:0043424,protein histidine kinase binding,Molecular function,0.2484941132397941,0.16985090967316555,34,1.0
+GO:0007623,circadian rhythm,Biological process,0.8179194343114724,-0.004627360999969974,80,1.0
+GO:0009636,response to toxic substance,Biological process,0.26724727516181646,-0.08466746258658663,38,1.0
+GO:0009736,cytokinin-activated signaling pathway,Biological process,0.18945681785363822,-0.14559786488227544,47,1.0
+GO:0009863,salicylic acid mediated signaling pathway,Biological process,0.8743681396590748,0.01353183381342559,88,1.0
+GO:0023014,signal transduction by protein phosphorylation,Biological process,0.9422440221945948,-0.0748254491996738,43,1.0
+GO:0070417,cellular response to cold,Biological process,0.0448758602142334,-0.35342742849447784,23,0.9999999999992815
+GO:0071215,cellular response to abscisic acid stimulus,Biological process,0.8983173370361328,0.031457220054680934,20,1.0
+GO:0009625,response to insect,Biological process,0.9443727540638497,-0.0013720066308376677,39,1.0
+GO:0042631,cellular response to water deprivation,Biological process,0.8711657605900124,0.03535275662764651,73,1.0
+GO:0048364,root development,Biological process,0.8207602450156196,0.04386835147133183,96,1.0
+GO:0030163,protein catabolic process,Biological process,0.06645473582177706,0.12686114240574128,56,1.0
+GO:0008234,cysteine-type peptidase activity,Molecular function,0.7989122673922153,0.03199723886675754,31,1.0
+GO:0005758,mitochondrial intermembrane space,Cellular component,0.6488010185768092,0.040552471542716365,28,1.0
+GO:0005811,lipid droplet,Cellular component,0.3146663265696793,-0.2508755132198406,29,1.0
+GO:0000186,activation of MAPKK activity,Biological process,0.3369391155471595,-0.14477904092547605,31,1.0
+GO:0002237,response to molecule of bacterial origin,Biological process,0.8872972137682341,0.024555114949591336,79,1.0
+GO:0006260,DNA replication,Biological process,0.06124152566443641,-0.16666443143981463,79,0.9999999999999999
+GO:0009553,embryo sac development,Biological process,0.12902229488454978,-0.19599725386297617,48,1.0
+GO:0010103,stomatal complex morphogenesis,Biological process,0.11440917509241678,0.1466847068927598,87,1.0
+GO:0030244,cellulose biosynthetic process,Biological process,0.5294911435352327,0.017786407852602718,85,1.0
+GO:0040029,"regulation of gene expression, epigenetic",Biological process,0.2988326516631902,-0.19265295882764594,55,1.0
+GO:0004675,transmembrane receptor protein serine/threonine kinase activity,Molecular function,0.8598535908183929,-0.02996843773736144,81,1.0
+GO:0004709,MAP kinase kinase kinase activity,Molecular function,0.3369391155471595,-0.14477904092547605,31,1.0
+GO:0010008,endosome membrane,Cellular component,0.12559677728090787,-0.1738225797872717,42,1.0
+GO:0016746,"transferase activity, transferring acyl groups",Molecular function,0.41930163657353714,-0.08710422469272609,59,1.0
+GO:0006270,DNA replication initiation,Biological process,0.013073178661634106,-0.20378560329308534,66,0.9998286897967692
+GO:0006275,regulation of DNA replication,Biological process,0.0018720160046301422,-0.24669901682968495,81,0.7239795373857013
+GO:0051726,regulation of cell cycle,Biological process,0.016409266284760905,-0.18912642542108438,73,0.9999794841188439
+GO:0004222,metalloendopeptidase activity,Molecular function,0.3212139315946053,-0.15506034614257858,44,1.0
+GO:0032774,RNA biosynthetic process,Biological process,0.9127760486534156,-0.004810501889809972,63,1.0
+GO:0051252,regulation of RNA metabolic process,Biological process,0.3694259800860126,0.05984570929448654,32,1.0
+GO:0015250,water channel activity,Molecular function,0.539189338684082,0.0600417139027333,21,1.0
+GO:0009269,response to desiccation,Biological process,0.603605273543774,0.07389382424976318,43,1.0
+GO:0005765,lysosomal membrane,Cellular component,0.8116779327392578,-0.08997760379327226,21,1.0
+GO:0006855,drug transmembrane transport,Biological process,0.984557214463757,-0.03668095251501881,58,1.0
+GO:0008324,cation transmembrane transporter activity,Molecular function,0.8958602855908943,-0.05692331516031018,32,1.0
+GO:0015297,antiporter activity,Molecular function,0.4466761575438011,0.07525893168897482,49,1.0
+GO:0006913,nucleocytoplasmic transport,Biological process,0.3778608888963606,-0.11306869130724863,31,1.0
+GO:0003993,acid phosphatase activity,Molecular function,0.7703529786474997,0.06687824430213504,29,1.0
+GO:0015114,phosphate ion transmembrane transporter activity,Molecular function,0.9595183868498773,-0.014792827848485138,38,1.0
+GO:0008643,carbohydrate transport,Biological process,0.5886413072989027,-0.026700263614346097,46,1.0
+GO:0006301,postreplication repair,Biological process,0.5186995762757332,-0.11127835247333713,38,1.0
+GO:0016197,endosomal transport,Biological process,0.6091489791870117,-0.23246760086640442,21,1.0
+GO:0004185,serine-type carboxypeptidase activity,Molecular function,0.07953343933418376,0.2421537331314935,28,1.0
+GO:0009698,phenylpropanoid metabolic process,Biological process,0.7883803340717171,0.00521700690690086,44,1.0
+GO:0051603,proteolysis involved in cellular protein catabolic process,Biological process,0.027407366458756112,0.1990617316583036,44,0.9999999770750851
+GO:0010310,regulation of hydrogen peroxide metabolic process,Biological process,0.8651756495721226,0.008847308904834488,89,1.0
+GO:0022626,cytosolic ribosome,Cellular component,0.43774019205589654,-0.08400588796489163,68,1.0
+GO:0006813,potassium ion transport,Biological process,0.9262550873076122,-0.006502079963685273,30,1.0
+GO:0006414,translational elongation,Biological process,0.6159117032881141,-0.07229636387472721,75,1.0
+GO:0010252,auxin homeostasis,Biological process,0.15668192940348688,0.15696432454791714,29,1.0
+GO:0051555,flavonol biosynthetic process,Biological process,0.774528980255127,-0.027160572685328448,22,1.0
+GO:0004175,endopeptidase activity,Molecular function,0.682713508605957,-0.07586212348519604,21,1.0
+GO:0008236,serine-type peptidase activity,Molecular function,0.1648154704539846,0.16854240580823773,28,1.0
+GO:0035196,production of miRNAs involved in gene silencing by miRNA,Biological process,0.0005042748809024279,-0.333494178137219,88,0.29712558670963773
+GO:0051607,defense response to virus,Biological process,0.14289325295180796,-0.11504311030466169,40,1.0
+GO:0002679,respiratory burst involved in defense response,Biological process,0.03749971565959912,-0.1974749079722555,50,0.9999999999468949
+GO:0005982,starch metabolic process,Biological process,0.4406936846608509,0.16569036523788067,41,1.0
+GO:0004714,transmembrane receptor protein tyrosine kinase activity,Molecular function,0.20588664640290355,-0.14229157036548037,29,1.0
+GO:0043067,regulation of programmed cell death,Biological process,0.27438136433460003,-0.2400039895603465,28,1.0
+GO:0045087,innate immune response,Biological process,0.5922605069013525,0.053406320057545614,37,1.0
+GO:0000122,negative regulation of transcription by RNA polymerase II,Biological process,0.8663547800600295,0.07914495013288642,32,1.0
+GO:0003714,transcription corepressor activity,Molecular function,0.9501348777191542,0.06394836758824145,33,1.0
+GO:0050661,NADP binding,Molecular function,0.2592270348625272,-0.08539501179397352,48,1.0
+GO:0052541,plant-type cell wall cellulose metabolic process,Biological process,0.4331212055778665,0.1778320073174458,31,1.0
+GO:0052546,cell wall pectin metabolic process,Biological process,0.3482130471946704,0.19256744782040036,33,1.0
+GO:0017137,Rab GTPase binding,Molecular function,0.09619888911292637,-0.25409355663579225,26,1.0
+GO:0032483,regulation of Rab protein signal transduction,Biological process,0.21568012237548828,-0.22846024857031857,21,1.0
+GO:0090630,activation of GTPase activity,Biological process,0.0013997554779052734,-0.38635126422734334,24,0.6222457984309989
+GO:0031347,regulation of defense response,Biological process,0.2765656124965502,-0.11202365730392026,65,1.0
+GO:0009534,chloroplast thylakoid,Cellular component,0.05199419213200078,0.14963290306952962,53,0.9999999999999879
+GO:0010287,plastoglobule,Cellular component,0.008688652339547073,0.2655545632632864,41,0.9970343371433434
+GO:0006084,acetyl-CoA metabolic process,Biological process,0.44641131544999,-0.06228670515233646,73,1.0
+GO:0016760,cellulose synthase (UDP-forming) activity,Molecular function,0.4278798079182492,0.10421557264230544,27,1.0
+GO:0007389,pattern specification process,Biological process,0.4575818421059251,0.0533064175781035,79,1.0
+GO:0009834,plant-type secondary cell wall biogenesis,Biological process,0.3043629224850424,-0.05609389526298047,62,1.0
+GO:0005938,cell cortex,Cellular component,0.35962629318237305,-0.13401638160545523,24,1.0
+GO:0022857,transmembrane transporter activity,Molecular function,0.28870657468422944,0.085250485479575,82,1.0
+GO:0043022,ribosome binding,Molecular function,0.8948604464530945,-0.014406905434632387,25,1.0
+GO:0007020,microtubule nucleation,Biological process,0.2629677926463887,-0.10041544249328499,84,1.0
+GO:0009934,regulation of meristem structural organization,Biological process,0.8119303584098816,-0.04542263409480296,25,1.0
+GO:0009693,ethylene biosynthetic process,Biological process,0.14086022207434992,0.16377423429353102,68,1.0
+GO:0031625,ubiquitin protein ligase binding,Molecular function,0.6467537966333664,0.05975173314431759,68,1.0
+GO:0019706,protein-cysteine S-palmitoyltransferase activity,Molecular function,0.32461181114807214,0.1709199910880821,27,1.0
+GO:0004722,protein serine/threonine phosphatase activity,Molecular function,0.5576199694951509,-0.03582593430359326,94,1.0
+GO:0003697,single-stranded DNA binding,Molecular function,0.3006783015654063,-0.152053315592402,40,1.0
+GO:0009637,response to blue light,Biological process,0.9269719113630063,-0.019531487103258426,68,1.0
+GO:0010155,regulation of proton transport,Biological process,0.6455006176767222,-0.11369528798661731,41,1.0
+GO:0016226,iron-sulfur cluster assembly,Biological process,0.09615334104154173,0.13653628662207803,90,1.0
+GO:0016556,mRNA modification,Biological process,0.22068851615288598,0.1376800377111045,45,1.0
+GO:0006469,negative regulation of protein kinase activity,Biological process,0.028181182907209452,-0.25232376432876474,29,0.9999999853334898
+GO:0003887,DNA-directed DNA polymerase activity,Molecular function,0.9664472341537476,-0.0511252513556177,24,1.0
+GO:0071897,DNA biosynthetic process,Biological process,0.3408819179593692,-0.19876641653116287,26,1.0
+GO:0008138,protein tyrosine/serine/threonine phosphatase activity,Molecular function,0.8462316989898682,-0.013981543781651298,23,1.0
+GO:0080043,quercetin 3-O-glucosyltransferase activity,Molecular function,0.984365219962488,0.0013322385076692045,31,1.0
+GO:0080044,quercetin 7-O-glucosyltransferase activity,Molecular function,0.8450804241615161,0.02764935457217363,30,1.0
+GO:0046916,cellular transition metal ion homeostasis,Biological process,0.5918488705909366,-0.051780359218720845,45,1.0
+GO:0046914,transition metal ion binding,Molecular function,0.8618044330490109,0.017585980914022244,49,1.0
+GO:0001731,formation of translation preinitiation complex,Biological process,0.036649227142333984,-0.3548638178921149,24,0.9999999999166129
+GO:0006446,regulation of translational initiation,Biological process,0.14847958087921143,-0.22281198394949492,25,1.0
+GO:0000287,magnesium ion binding,Molecular function,0.9167443809022839,0.006072215021700337,98,1.0
+GO:0016570,histone modification,Biological process,0.16897600838431603,-0.24238242198307422,61,1.0
+GO:0004386,helicase activity,Molecular function,0.09676695322126239,-0.18741061612547655,58,1.0
+GO:0034219,carbohydrate transmembrane transport,Biological process,0.6663782173486559,0.028586249300563717,31,1.0
+GO:0006662,glycerol ether metabolic process,Biological process,0.20818857507846045,-0.06861435334929392,45,1.0
+GO:0006378,mRNA polyadenylation,Biological process,0.24548721313476562,-0.424028409156553,20,1.0
+GO:0006406,mRNA export from nucleus,Biological process,0.0016486594723617949,-0.29634497756825434,53,0.6802333681841288
+GO:0010073,meristem maintenance,Biological process,0.13149945999704402,-0.15193747908569194,36,1.0
+GO:0000325,plant-type vacuole,Cellular component,0.23867976976552896,0.11540045900923782,36,1.0
+GO:0009626,plant-type hypersensitive response,Biological process,0.15037197919132064,0.16826156496078115,40,1.0
+GO:0070588,calcium ion transmembrane transport,Biological process,0.10139739513397217,0.24086397779699287,25,1.0
+GO:0001666,response to hypoxia,Biological process,0.4503216296828608,-0.08970131902982807,58,1.0
+GO:0004713,protein tyrosine kinase activity,Molecular function,0.7989122673922153,-0.08189469115429601,31,1.0
+GO:0042393,histone binding,Molecular function,0.00144639117603531,-0.362783369940295,47,0.6332499329638671
+GO:0006839,mitochondrial transport,Biological process,0.7063334306572764,-0.02199965643583601,39,1.0
+GO:0015696,ammonium transport,Biological process,0.0427712367056132,0.2590731323256849,34,0.9999999999974846
+GO:0015802,basic amino acid transport,Biological process,0.1363426134204674,0.22886348459108347,27,1.0
+GO:0043269,regulation of ion transport,Biological process,0.04154586431450709,0.2946946446299026,31,0.9999999999953616
+GO:0019048,modulation by virus of host process,Biological process,0.13026909524533395,-0.18399876173472968,34,1.0
+GO:0008022,protein C-terminus binding,Molecular function,0.4274179935455322,0.09519446749128267,23,1.0
+GO:0002181,cytoplasmic translation,Biological process,0.98986794535872,-0.0013667497862448238,26,1.0
+GO:0006626,protein targeting to mitochondrion,Biological process,0.35596669376166223,-0.11213662448119417,66,1.0
+GO:0003006,developmental process involved in reproduction,Biological process,0.9073325668897914,-0.008747300635106555,47,1.0
+GO:0010583,response to cyclopentenone,Biological process,0.7027179816787763,0.008478391447989477,100,1.0
+GO:0005198,structural molecule activity,Molecular function,0.3133544614961139,0.105640574426963,68,1.0
+GO:0008483,transaminase activity,Molecular function,0.9710784815944591,0.004417586955268029,38,1.0
+GO:0000786,nucleosome,Cellular component,0.6236963428692786,-0.0803571548339764,59,1.0
+GO:0000790,nuclear chromatin,Cellular component,0.08315982016842409,-0.2180580359806809,45,1.0
+GO:0003713,transcription coactivator activity,Molecular function,0.09159340615689572,-0.23286265748347593,35,1.0
+GO:0034968,histone lysine methylation,Biological process,0.45406996542620537,-0.10036687424175636,43,1.0
+GO:0044183,protein folding chaperone,Molecular function,0.001689910888671875,-0.6025091037215622,20,0.6887083033928456
+GO:0005875,microtubule associated complex,Cellular component,0.08892359984920849,-0.17648083749116414,34,1.0
+GO:0048440,carpel development,Biological process,0.8376168070245121,-0.025877131115357607,28,1.0
+GO:0009982,pseudouridine synthase activity,Molecular function,0.055070459842681885,-0.24115941615052422,25,0.9999999999999981
+GO:0009060,aerobic respiration,Biological process,0.6125770111482778,0.0472010929055934,42,1.0
+GO:0010152,pollen maturation,Biological process,0.22747626562591206,0.12919992616356835,28,1.0
+GO:0016998,cell wall macromolecule catabolic process,Biological process,0.13288740647153138,0.1772955165904751,29,1.0
+GO:0050897,cobalt ion binding,Molecular function,0.8434111214540423,-0.029559092165273148,45,1.0
+GO:0019901,protein kinase binding,Molecular function,0.4003912962543049,-0.1196208995549358,45,1.0
+GO:0000932,P-body,Cellular component,0.12144463967415459,-0.19654145756015715,48,1.0
+GO:0009969,xyloglucan biosynthetic process,Biological process,0.39258384704589844,0.14046938217930735,21,1.0
+GO:0016758,"transferase activity, transferring hexosyl groups",Molecular function,0.01905569412074879,0.3160567165714646,39,0.9999961493046031
+GO:0006914,autophagy,Biological process,0.8329260215044111,0.06399035028390028,54,1.0
+GO:0016485,protein processing,Biological process,0.046160221099853516,-0.31375155429348717,22,0.999999999999668
+GO:0040007,growth,Biological process,0.2885704072481101,-0.11649358624206266,69,1.0
+GO:0007186,G protein-coupled receptor signaling pathway,Biological process,0.481961704471497,-0.08044672562621974,57,1.0
+GO:0009966,regulation of signal transduction,Biological process,0.2661018910512719,-0.10624365597563125,68,1.0
+GO:0009742,brassinosteroid mediated signaling pathway,Biological process,0.850612631774417,-0.03609289633440752,69,1.0
+GO:0080030,methyl indole-3-acetate esterase activity,Molecular function,0.46584345961384377,-0.038170590760673036,32,1.0
+GO:0080031,methyl salicylate esterase activity,Molecular function,0.28111856606315055,-0.09084461085603687,31,1.0
+GO:0080032,methyl jasmonate esterase activity,Molecular function,0.28111856606315055,-0.09084461085603687,31,1.0
+GO:0000041,transition metal ion transport,Biological process,0.9120730845618369,-0.0005015452407151348,60,1.0
+GO:0016324,apical plasma membrane,Cellular component,0.5964998602867126,0.0730486089216074,25,1.0
+GO:0030048,actin filament-based movement,Biological process,0.2484588215897754,0.0988579639458368,37,1.0
+GO:0016829,lyase activity,Molecular function,0.9220236005490254,-0.019935888612445142,56,1.0
+GO:0031982,vesicle,Cellular component,0.366539049450504,0.08053676763223322,75,1.0
+GO:0006006,glucose metabolic process,Biological process,0.5805544804163953,0.06093023743674226,27,1.0
+GO:0006541,glutamine metabolic process,Biological process,0.312333345413208,-0.15269113054481287,25,1.0
+GO:0042127,regulation of cell population proliferation,Biological process,0.07681225229373918,-0.2947151589945061,34,1.0
+GO:0042546,cell wall biogenesis,Biological process,0.796306606264218,-0.00794952854624713,65,1.0
+GO:0051287,NAD binding,Molecular function,0.7492461631027094,0.030088135831333906,61,1.0
+GO:0009579,thylakoid,Cellular component,0.8859912823895078,-0.010756775997886884,70,1.0
+GO:0006744,ubiquinone biosynthetic process,Biological process,0.9364261370248068,0.03803455823816742,38,1.0
+GO:0006857,oligopeptide transport,Biological process,0.11316734658246257,0.16041999991153677,51,1.0
+GO:0006032,chitin catabolic process,Biological process,0.1372833251953125,0.24119850099950646,21,1.0
+GO:0006816,calcium ion transport,Biological process,0.7758697344166331,0.024187315936317334,94,1.0
+GO:0008061,chitin binding,Molecular function,0.3468923689342256,0.0871945939247261,31,1.0
+GO:0006814,sodium ion transport,Biological process,0.7502379417419434,0.02840006291044503,22,1.0
+GO:0019904,protein domain specific binding,Molecular function,0.4185025995678855,0.0467443536455065,43,1.0
+GO:0019005,SCF ubiquitin ligase complex,Cellular component,0.10825407590126135,-0.13802245486900622,88,1.0
+GO:0031146,SCF-dependent proteasomal ubiquitin-dependent protein catabolic process,Biological process,0.4613826078740544,-0.15881558498616505,43,1.0
+GO:0000160,phosphorelay signal transduction system,Biological process,0.8659543829203606,-0.04801967101929925,42,1.0
+GO:0009630,gravitropism,Biological process,0.0005175974787054309,-0.3687414384790072,89,0.3032834149020147
+GO:0000910,cytokinesis,Biological process,0.051930665029697155,-0.3058555376209541,30,0.9999999999999879
+GO:0016887,ATPase activity,Molecular function,0.016394462541159324,-0.21947562995379244,74,0.9999794841188439
+GO:0032446,protein modification by small protein conjugation,Biological process,0.9961489139450291,0.007324148005977607,50,1.0
+GO:0017148,negative regulation of translation,Biological process,0.03533164287744871,-0.3028914918152447,37,0.9999999998277058
+GO:0030687,"preribosome, large subunit precursor",Cellular component,0.0477877479213932,-0.3423783112173967,31,0.9999999999998704
+GO:0010628,positive regulation of gene expression,Biological process,0.3184906025782175,-0.27807828948584135,30,1.0
+GO:0035064,methylated histone binding,Molecular function,0.7285060882568359,0.05081036682782871,20,1.0
+GO:0019843,rRNA binding,Molecular function,0.6370687830607895,-0.032746401840057,48,1.0
+GO:0004298,threonine-type endopeptidase activity,Molecular function,0.0350083231271882,-0.19828127726564299,29,0.9999999997950003
+GO:0004497,monooxygenase activity,Molecular function,0.710180564427969,0.013320718108825342,70,1.0
+GO:0006749,glutathione metabolic process,Biological process,0.8597609516621914,-0.02086872146091161,60,1.0
+GO:0044255,cellular lipid metabolic process,Biological process,0.39230235619279796,0.07878437656770917,68,1.0
+GO:0009755,hormone-mediated signaling pathway,Biological process,0.38197449725379773,0.07522385232319655,52,1.0
+GO:0048449,floral organ formation,Biological process,0.00202021176473724,-0.3412103990862939,52,0.749737465553972
+GO:0010629,negative regulation of gene expression,Biological process,0.5057204189354021,0.02952215511028497,51,1.0
+GO:0005200,structural constituent of cytoskeleton,Molecular function,0.8140856836114602,-0.006501114435935265,31,1.0
+GO:0007018,microtubule-based movement,Biological process,0.00810111002021808,-0.22192367654773015,74,0.9957030445909246
+GO:0004930,G protein-coupled receptor activity,Molecular function,0.5458755493164062,0.0784555950459292,20,1.0
+GO:0042973,"glucan endo-1,3-beta-D-glucosidase activity",Molecular function,0.7508834218468307,-0.055127690105083775,26,1.0
+GO:0015629,actin cytoskeleton,Cellular component,0.025220968988406898,-0.363447298042051,29,0.999999922578733
+GO:0006338,chromatin remodeling,Biological process,0.22047164360629312,-0.15850136826084982,27,1.0
+GO:0006367,transcription initiation from RNA polymerase II promoter,Biological process,0.5444959675538346,0.05164930976709058,35,1.0
+GO:0006368,transcription elongation from RNA polymerase II promoter,Biological process,0.819868406008273,-0.08996360843742648,28,1.0
+GO:0006598,polyamine catabolic process,Biological process,0.10386523406446943,0.16164692610471315,40,1.0
+GO:0009751,response to salicylic acid,Biological process,0.09036602541035205,-0.12694786148501425,83,1.0
+GO:0005856,cytoskeleton,Cellular component,0.8567817175209249,0.0009751645628791253,74,1.0
+GO:0004558,"alpha-1,4-glucosidase activity",Molecular function,0.2942523956298828,0.20294794691273815,20,1.0
+GO:0043248,proteasome assembly,Biological process,0.9627676567293464,-0.018531336578500094,44,1.0
+GO:0016853,isomerase activity,Molecular function,0.4460193209296298,-0.06933848793112159,71,1.0
+GO:0015996,chlorophyll catabolic process,Biological process,0.6339643823801138,-0.06974272884704401,58,1.0
+GO:0030422,production of siRNA involved in RNA interference,Biological process,0.41653380739187873,-0.1952118793999292,30,1.0
+GO:0009773,photosynthetic electron transport in photosystem I,Biological process,0.8123550415039062,-0.031613642792321685,20,1.0
+GO:0009817,"defense response to fungus, incompatible interaction",Biological process,0.8627958052262049,0.022953122318649544,36,1.0
+GO:0008266,poly(U) RNA binding,Molecular function,0.03587532043457031,-0.3610816823832157,22,0.9999999998743632
+GO:0000079,regulation of cyclin-dependent protein serine/threonine kinase activity,Biological process,0.7309892177581787,-0.054606799440287866,25,1.0
+GO:0010304,PSII associated light-harvesting complex II catabolic process,Biological process,0.7257407903671265,0.023942307028490855,24,1.0
+GO:0004867,serine-type endopeptidase inhibitor activity,Molecular function,0.507703959941864,0.08657681166960939,25,1.0
+GO:0010951,negative regulation of endopeptidase activity,Biological process,0.9741253092951518,0.009204752054487968,29,1.0
+GO:0003684,damaged DNA binding,Molecular function,0.8979718156630753,0.04186630408861786,34,1.0
+GO:0003954,NADH dehydrogenase activity,Molecular function,1.0,0.03109583469474495,21,1.0
+GO:0051539,"4 iron, 4 sulfur cluster binding",Molecular function,0.4283084366757076,-0.07833280567332065,46,1.0
+GO:0010584,pollen exine formation,Biological process,0.02626148419302559,0.2594596268636878,26,0.9999999577118724
+GO:0042995,cell projection,Cellular component,0.1656129521797658,-0.16954738848902107,57,1.0
+GO:0071472,cellular response to salt stress,Biological process,0.06341934204101562,0.2664265793425098,22,1.0
+GO:0006099,tricarboxylic acid cycle,Biological process,0.5298670424057011,0.05996118537320007,46,1.0
+GO:0030036,actin cytoskeleton organization,Biological process,0.39486255065456655,0.20309300474593678,26,1.0
+GO:0006891,intra-Golgi vesicle-mediated transport,Biological process,0.13379665267680627,-0.151001564426076,63,1.0
+GO:0003690,double-stranded DNA binding,Molecular function,0.06662028301124995,-0.20282608545296016,45,1.0
+GO:0016444,somatic cell DNA recombination,Biological process,0.369525330084544,-0.09567882030793111,29,1.0
+GO:0031047,gene silencing by RNA,Biological process,0.6878546970101984,-0.13119623424975108,34,1.0
+GO:0000775,"chromosome, centromeric region",Cellular component,0.6575663850187541,0.10537860265334054,29,1.0
+GO:0000785,chromatin,Cellular component,0.7905115812513929,-0.011301015677877238,41,1.0
+GO:0005635,nuclear envelope,Cellular component,0.48124400633612807,0.11924323718679074,35,1.0
+GO:0006633,fatty acid biosynthetic process,Biological process,0.46635274654444925,-0.05289697136918527,73,1.0
+GO:0046835,carbohydrate phosphorylation,Biological process,0.317589436651994,-0.15044320419540647,31,1.0
+GO:0031965,nuclear membrane,Cellular component,0.7267336894545048,-0.03316607471237529,40,1.0
+GO:0006289,nucleotide-excision repair,Biological process,0.325391948223114,0.09746629241556343,25,1.0
+GO:0005681,spliceosomal complex,Cellular component,0.06464934349060059,0.2030080677206914,24,1.0
+GO:0004364,glutathione transferase activity,Molecular function,0.21591843300128333,-0.08220760758947276,62,1.0
+GO:0015035,protein disulfide oxidoreductase activity,Molecular function,0.6467537966333664,-0.0206848757447746,68,1.0
+GO:0019684,"photosynthesis, light reaction",Biological process,0.9795406743609374,0.027105092078755368,34,1.0
+GO:0071805,potassium ion transmembrane transport,Biological process,0.6374094083696589,0.07931079052480204,38,1.0
+GO:0001046,core promoter sequence-specific DNA binding,Molecular function,0.6742229461669922,-0.1189890873875591,20,1.0
+GO:0001228,"DNA-binding transcription activator activity, RNA polymerase II-specific",Molecular function,0.7004594832311255,-0.08593987543443901,37,1.0
+GO:0046685,response to arsenic-containing substance,Biological process,0.9554852087213584,0.016360524765883587,39,1.0
+GO:0009543,chloroplast thylakoid lumen,Cellular component,0.1915221065809437,0.1776007929628877,30,1.0
+GO:0005544,calcium-dependent phospholipid binding,Molecular function,0.3281623065662794,0.16735831362416706,26,1.0
+GO:0004650,polygalacturonase activity,Molecular function,0.25210392475128174,0.23509352397421898,25,1.0
+GO:0016592,mediator complex,Cellular component,0.5566018657073668,-0.08935466475886301,31,1.0
+GO:0008536,Ran GTPase binding,Molecular function,0.10256331911359984,-0.17300972571744577,29,1.0
+GO:2000022,regulation of jasmonic acid mediated signaling pathway,Biological process,0.8325093984603882,0.08972832423214534,25,1.0
+GO:0005262,calcium channel activity,Molecular function,0.8408222198486328,-0.07145550832151223,20,1.0
+GO:0030176,integral component of endoplasmic reticulum membrane,Cellular component,0.8774027283940786,0.021020141583561677,30,1.0
+GO:0008757,S-adenosylmethionine-dependent methyltransferase activity,Molecular function,0.5813652373104127,0.11012535594128205,29,1.0
+GO:0008094,DNA-dependent ATPase activity,Molecular function,0.032894134521484375,-0.2550893180934568,22,0.9999999992197948
+GO:0010389,regulation of G2/M transition of mitotic cell cycle,Biological process,0.0015360532041168728,-0.42455644177213736,39,0.6548464978637957
+GO:0035091,phosphatidylinositol binding,Molecular function,0.37948251937238975,-0.005828158551351628,32,1.0
+GO:0005543,phospholipid binding,Molecular function,0.7262084027878886,-0.046609501284620006,43,1.0
+GO:0030276,clathrin binding,Molecular function,0.632507939829223,0.12638679987359536,28,1.0
+GO:0030136,clathrin-coated vesicle,Cellular component,0.6431422233581543,0.0437855096130285,24,1.0
+GO:0009086,methionine biosynthetic process,Biological process,0.6385013149354546,0.03279356278229402,87,1.0
+GO:0019745,pentacyclic triterpenoid biosynthetic process,Biological process,0.010109186172485352,0.3285208822860698,23,0.998788840471565
+GO:0071011,precatalytic spliceosome,Cellular component,0.46528258187908456,0.13159919341924872,30,1.0
+GO:0010417,glucuronoxylan biosynthetic process,Biological process,0.3665854334831238,-0.06189874000194578,25,1.0
+GO:0015074,DNA integration,Biological process,0.0071010589599609375,-0.5446445280340284,21,0.9917377758737072
+GO:0022414,reproductive process,Biological process,0.0950700027642389,-0.19017116159985545,42,1.0
+GO:0000902,cell morphogenesis,Biological process,0.46158799614127854,0.08423388808272145,61,1.0
+GO:0004791,thioredoxin-disulfide reductase activity,Molecular function,0.5087660551071167,-0.05634441567539334,24,1.0
+GO:0009704,de-etiolation,Biological process,0.04248917102813721,-0.21594988974961807,24,0.999999999997159
+GO:0040008,regulation of growth,Biological process,0.42614197731018066,-0.14887408701278265,25,1.0
+GO:0008375,acetylglucosaminyltransferase activity,Molecular function,0.21155538685054276,0.14709895915616694,27,1.0
+GO:0008134,transcription factor binding,Molecular function,0.45236778259277344,0.10922637193544205,21,1.0
+GO:0030117,membrane coat,Cellular component,0.5456695556640625,-0.08349974329961943,24,1.0
+GO:0016773,"phosphotransferase activity, alcohol group as acceptor",Molecular function,0.945744514465332,-0.021923118874206678,21,1.0
+GO:0043130,ubiquitin binding,Molecular function,0.06658514497311299,0.24620482228814072,35,1.0
+GO:0009615,response to virus,Biological process,0.45640776919705595,-0.10928260094489463,27,1.0
+GO:0010305,leaf vascular tissue pattern formation,Biological process,0.08118109511086913,0.15151412936041622,36,1.0
+GO:0006955,immune response,Biological process,0.7400164808329246,0.01147010431216652,69,1.0
+GO:0031145,anaphase-promoting complex-dependent catabolic process,Biological process,0.5216732025146484,-0.1075047960193152,20,1.0
+GO:0051225,spindle assembly,Biological process,0.01611667629409606,-0.3124848009199866,37,0.9999757275216861
+GO:0006164,purine nucleotide biosynthetic process,Biological process,0.30437241089978706,-0.19018387902161546,29,1.0
+GO:0016709,"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen",Molecular function,0.8446372082208967,-0.026522053420652662,31,1.0
+GO:0005992,trehalose biosynthetic process,Biological process,0.001788658258645517,0.4275739728256152,27,0.7087254583615479
+GO:0000145,exocyst,Cellular component,0.8381938934326172,0.008565030208979203,21,1.0
+GO:0001522,pseudouridine synthesis,Biological process,0.8983173370361328,0.0812288094653475,20,1.0
+GO:0016616,"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",Molecular function,0.9552646777013545,0.008254289925188596,32,1.0
+GO:0016049,cell growth,Biological process,0.8419731589667045,0.003506094087641007,85,1.0
+GO:0048316,seed development,Biological process,0.1589516161676493,-0.190556427342777,35,1.0
+GO:0009850,auxin metabolic process,Biological process,0.5249125957489014,-0.10156370454442717,25,1.0
+GO:0030243,cellulose metabolic process,Biological process,0.7672083132559107,-0.03376738157518076,28,1.0
+GO:0008285,negative regulation of cell population proliferation,Biological process,0.05625271797180176,-0.35803348073332797,23,0.9999999999999991
+GO:0010227,floral organ abscission,Biological process,0.1906871795654297,-0.25368853669013414,21,1.0
+GO:0052542,defense response by callose deposition,Biological process,0.9687364427199858,0.048146255734489184,31,1.0
+GO:0000049,tRNA binding,Molecular function,0.05875152349472046,-0.2856302709474373,25,0.9999999999999998
+GO:0042335,cuticle development,Biological process,0.729618806544102,-0.05798108830272064,36,1.0
+GO:0046520,sphingoid biosynthetic process,Biological process,0.47106336173321883,-0.09011399771180201,27,1.0
+GO:0004857,enzyme inhibitor activity,Molecular function,0.6215133666992188,-0.10150163035107808,20,1.0
+GO:0030599,pectinesterase activity,Molecular function,0.030117511749267578,-0.25021875240219493,22,0.9999999957041973
+GO:0043086,negative regulation of catalytic activity,Biological process,0.3316364407026666,0.07122063078612123,72,1.0
+GO:0045490,pectin catabolic process,Biological process,0.15364646911621094,-0.16426533674621138,20,1.0
+GO:0006302,double-strand break repair,Biological process,0.07453982446665863,-0.28995097744890536,31,1.0
+GO:0010218,response to far red light,Biological process,0.43437053368545697,0.09109714965917404,62,1.0
+GO:0048868,pollen tube development,Biological process,0.7551933395256503,-0.05761935965169983,38,1.0
+GO:0006863,purine nucleobase transport,Biological process,0.36218297344598493,0.11609516299370108,36,1.0
+GO:0005643,nuclear pore,Cellular component,0.1797709860924649,-0.14379578330915294,38,1.0
+GO:0000184,"nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",Biological process,0.10539817810058594,-0.29848247030026087,20,1.0
+GO:0042981,regulation of apoptotic process,Biological process,0.9942144797702327,-0.04726582530592933,38,1.0
+GO:0051302,regulation of cell division,Biological process,0.18954229354858398,-0.27670296516131676,23,1.0
+GO:0043295,glutathione binding,Molecular function,0.30289924144744873,-0.10961675981596174,24,1.0
+GO:0008194,UDP-glycosyltransferase activity,Molecular function,0.027674198150634766,0.4706856614264273,23,0.9999999801818005
+GO:0071281,cellular response to iron ion,Biological process,0.07598018646240234,0.42813673183849277,21,1.0
+GO:0005788,endoplasmic reticulum lumen,Cellular component,0.1648154704539846,-0.15919236918535393,28,1.0
+GO:0009117,nucleotide metabolic process,Biological process,0.27221012115478516,0.13515479035688757,21,1.0
+GO:0016604,nuclear body,Cellular component,0.5620746612548828,0.10534513612254807,21,1.0
+GO:0019752,carboxylic acid metabolic process,Biological process,0.1282962059063397,-0.1612234382838687,52,1.0
+GO:0061024,membrane organization,Biological process,0.08879852294921875,0.24050416369279184,21,1.0
+GO:0046274,lignin catabolic process,Biological process,0.5270590782165527,0.10824680758487269,24,1.0
+GO:0015079,potassium ion transmembrane transporter activity,Molecular function,0.8983173370361328,0.01737201703040788,20,1.0
+GO:0003002,regionalization,Biological process,0.8229274749755859,0.012321106615619335,23,1.0
+GO:0019748,secondary metabolic process,Biological process,0.9116062720674252,0.009017018434772973,50,1.0
+GO:0005319,lipid transporter activity,Molecular function,0.6101517677307129,-0.013569643121039088,22,1.0
+GO:0006546,glycine catabolic process,Biological process,0.45110753148187444,-0.04513419186515472,39,1.0
+GO:0009106,lipoate metabolic process,Biological process,0.1650265656246961,-0.10797586167612151,30,1.0
+GO:0010319,stromule,Cellular component,0.1292761697373253,0.1492705063990309,49,1.0
+GO:0008356,asymmetric cell division,Biological process,0.7498782331919757,-0.024041083248130826,28,1.0
+GO:0006890,"retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum",Biological process,0.6915188431739807,0.05642604731557695,25,1.0
+GO:0016572,histone phosphorylation,Biological process,0.037355258504673215,-0.28336611104664733,42,0.9999999999439021
+GO:0048438,floral whorl development,Biological process,0.6476554870605469,-0.09634562735809382,20,1.0
+GO:0009789,positive regulation of abscisic acid-activated signaling pathway,Biological process,0.899570107460022,0.008873434947036333,24,1.0
+GO:0018279,protein N-linked glycosylation via asparagine,Biological process,0.08582782745361328,-0.2864835812147444,23,1.0
+GO:0006354,"DNA-templated transcription, elongation",Biological process,0.20015525817871094,0.1943957047123855,23,1.0
+GO:0052689,carboxylic ester hydrolase activity,Molecular function,0.12708824029768626,0.13048867707105224,28,1.0
+GO:0009610,response to symbiotic fungus,Biological process,0.17399806142904461,-0.12048325529552811,35,1.0
+GO:0019898,extrinsic component of membrane,Cellular component,0.8663547800600295,-0.08478841186286751,32,1.0
+GO:0046482,para-aminobenzoic acid metabolic process,Biological process,0.15416141025875302,0.20792685684579945,35,1.0
+GO:0006897,endocytosis,Biological process,0.9422839110260988,-0.037151804181278295,50,1.0
+GO:0005667,transcription regulator complex,Cellular component,0.0752133122154768,0.24504716018046066,30,1.0
+GO:0008610,lipid biosynthetic process,Biological process,0.869666576385498,0.014235837278699528,23,1.0
+GO:0042254,ribosome biogenesis,Biological process,0.5352983319367708,-0.0787280889756722,56,1.0
+GO:0045177,apical part of cell,Cellular component,0.6476554870605469,0.0615236046392407,20,1.0
+GO:0032880,regulation of protein localization,Biological process,0.8733537674341689,-0.030267197005211716,28,1.0
+GO:0003777,microtubule motor activity,Molecular function,1.5908154103364825e-05,-0.4162165233907072,53,0.011184141630267708
+GO:0006812,cation transport,Biological process,0.615043044090271,0.06855169770586242,25,1.0
+GO:0003727,single-stranded RNA binding,Molecular function,0.380904893503636,-0.10436244854602438,26,1.0
+GO:0042255,ribosome assembly,Biological process,0.613892513437776,-0.05628704327191592,27,1.0
+GO:0010039,response to iron ion,Biological process,0.12439677550010478,0.2246933923161466,26,1.0
+GO:0045595,regulation of cell differentiation,Biological process,0.15930077767934359,-0.1844778340628581,47,1.0
+GO:0007000,nucleolus organization,Biological process,0.07598018646240234,-0.2909465034593154,21,1.0
+GO:0008137,NADH dehydrogenase (ubiquinone) activity,Molecular function,0.49079859256744385,0.07698802138268715,24,1.0
+GO:0016926,protein desumoylation,Biological process,0.1153478921200864,-0.14271208797018325,63,1.0
+GO:0048589,developmental growth,Biological process,0.9741253092951518,-0.06083892132907393,29,1.0
+GO:0050665,hydrogen peroxide biosynthetic process,Biological process,0.5463387504673842,-0.0555368731642969,55,1.0
+GO:0009062,fatty acid catabolic process,Biological process,0.08253039414054802,0.26300782458973504,35,1.0
+GO:0015030,Cajal body,Cellular component,0.09579944610595703,-0.24228376762044504,21,1.0
+GO:0045036,protein targeting to chloroplast,Biological process,0.6875942199289805,0.006461749720398291,47,1.0
+GO:0031902,late endosome membrane,Cellular component,0.8290790993681643,0.04911581997030636,26,1.0
+GO:0005871,kinesin complex,Cellular component,1.0841931550223258e-05,-0.5343099663811911,44,0.007646742909228066
+GO:0006333,chromatin assembly or disassembly,Biological process,0.5249125957489014,0.07463504487660637,25,1.0
+GO:0009647,skotomorphogenesis,Biological process,0.4319114685058594,-0.12773576846436002,21,1.0
+GO:0046930,pore complex,Cellular component,0.3694259800860126,-0.15838325685245577,32,1.0
+GO:0006399,tRNA metabolic process,Biological process,0.17137638877502248,-0.17217798741809343,30,1.0
+GO:0003756,protein disulfide isomerase activity,Molecular function,0.35962629318237305,-0.1573121904143162,24,1.0
+GO:0019953,sexual reproduction,Biological process,0.24912594537385946,-0.1504814979396353,33,1.0
+GO:0000784,"nuclear chromosome, telomeric region",Cellular component,0.8462316989898682,0.011168623508455818,23,1.0
+GO:0005199,structural constituent of cell wall,Molecular function,0.06464958190917969,0.30552849943386634,21,1.0
+GO:0010555,response to mannitol,Biological process,0.16495704650878906,0.2647760281393452,20,1.0
+GO:0042626,ATPase-coupled transmembrane transporter activity,Molecular function,0.13467575894495332,-0.24520314972681725,32,1.0
+GO:0034599,cellular response to oxidative stress,Biological process,0.4366330161611942,-0.14411419700893427,34,1.0
+GO:0006400,tRNA modification,Biological process,0.7285060882568359,0.0649855685000043,20,1.0
+GO:0015450,P-P-bond-hydrolysis-driven protein transmembrane transporter activity,Molecular function,0.3299827575683594,0.1330829555255848,20,1.0
+GO:0016747,"transferase activity, transferring acyl groups other than amino-acyl groups",Molecular function,0.17086648171401575,0.19657452594150807,27,1.0
+GO:0005741,mitochondrial outer membrane,Cellular component,0.312950675522914,-0.1887559306139208,27,1.0
+GO:0006898,receptor-mediated endocytosis,Biological process,0.5691623477317327,-0.044393992089362296,28,1.0
+GO:0050801,ion homeostasis,Biological process,0.5445904731750488,-0.11794086312251839,22,1.0
+GO:0016798,"hydrolase activity, acting on glycosyl bonds",Molecular function,0.5337772019665354,-0.10191808659310578,26,1.0
+GO:1902600,proton transmembrane transport,Biological process,0.23036134243011475,0.13410517332610242,25,1.0
+GO:0006754,ATP biosynthetic process,Biological process,0.539189338684082,0.13153128970465627,21,1.0
+GO:0000976,transcription regulatory region sequence-specific DNA binding,Molecular function,0.6431422233581543,0.100477571049499,24,1.0
+GO:0006342,chromatin silencing,Biological process,0.01225727662287046,-0.28813643293917574,58,0.999708301827452
+GO:0000922,spindle pole,Cellular component,0.12621283531188965,-0.12009222043209447,23,1.0
+GO:0009903,chloroplast avoidance movement,Biological process,0.6742229461669922,-0.03970350341806756,20,1.0
+GO:0004721,phosphoprotein phosphatase activity,Molecular function,0.6346315983022492,-0.02652566669173271,37,1.0
+GO:0009814,"defense response, incompatible interaction",Biological process,0.7090141773223877,-0.09197235576565531,23,1.0
+GO:0017111,nucleoside-triphosphatase activity,Molecular function,0.008714795112609863,-0.5394563990326204,24,0.9970604301433751
+GO:0000038,very long-chain fatty acid metabolic process,Biological process,0.19737839698791504,-0.16687682050431565,24,1.0
+GO:0000280,nuclear division,Biological process,0.09175300598144531,-0.23599251936040633,23,1.0
+GO:0006644,phospholipid metabolic process,Biological process,0.9728584289550781,-0.007116494853675767,21,1.0
+GO:0009960,endosperm development,Biological process,0.20244979858398438,-0.20838973108145611,20,1.0
+GO:0010351,lithium ion transport,Biological process,0.6265970924224259,0.051477153034548195,29,1.0
+GO:0002238,response to molecule of fungal origin,Biological process,0.7261838912963867,-0.008507087158960624,22,1.0
+GO:0043622,cortical microtubule organization,Biological process,0.24548721313476562,-0.20086128060468927,20,1.0
+GO:0006352,"DNA-templated transcription, initiation",Biological process,0.6338268518447876,-0.17581421663260963,25,1.0
+GO:0016790,thiolester hydrolase activity,Molecular function,0.7561664581298828,-0.09522795801188055,20,1.0
+GO:0006882,cellular zinc ion homeostasis,Biological process,0.026330947875976562,0.409355967815257,21,0.9999999577118724
